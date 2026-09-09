@@ -1,11 +1,12 @@
 // Автопостинг анонсов новых статей TehnoRex в Telegram-канал @tehnorexby.
-// Работает на GitHub Actions (публичный репозиторий, токен — в секретах).
+// Источник: ЖИВАЯ лента журнала https://tehnorex.by/zhurnal (sitemap обновляется с задержкой,
+// поэтому он не используется — статьи могут быть опубликованы, но отсутствовать в sitemap).
 //
 // Режимы:
 //   node tg_announce.js run        — отправить анонсы только для НОВЫХ статей (нет в логе) [режим воркфлоу]
-//   node tg_announce.js baseline   — записать ВСЕ текущие статьи sitemap как уже анонсированные (без отправки)
-//   node tg_announce.js probe <slug> — показать, что будет извлечено из страницы (без отправки)
-//   node tg_announce.js test <slug>  — принудительно отправить анонс одной статьи
+//   node tg_announce.js baseline   — записать ВСЕ текущие статьи ленты как уже анонсированные (без отправки)
+//   node tg_announce.js probe      — показать первые 5 статей ленты, как их увидит скрипт (без отправки)
+//   node tg_announce.js test <slug>  — принудительно отправить анонс одной статьи (данные со страницы)
 //
 // Требования: переменная окружения TELEGRAM_BOT_TOKEN (секрет репозитория).
 "use strict";
@@ -20,9 +21,9 @@ if (!TOKEN) {
 const API = "https://api.telegram.org/bot" + TOKEN;
 
 const CHAT = -1002446772680;               // id канала @tehnorexby (TehnoRex.by)
-const SM = "https://tehnorex.by/seo/sitemap_journal_1.xml";
-const LOG_FILE = path.join(process.cwd(), "telegram_posted.json");
 const SITE = "https://tehnorex.by";
+const FEED_PAGES = 2;                      // сколько страниц ленты просматривать (на случай пачки статей)
+const LOG_FILE = path.join(process.cwd(), "telegram_posted.json");
 
 const wait = ms => new Promise(r => setTimeout(r, ms));
 
@@ -76,53 +77,45 @@ async function fetchText(url, tries = 4) {
   return null;
 }
 
-function metaContent(html, prop) {
-  const i = html.indexOf(prop);
-  if (i < 0) return null;
-  const win = html.slice(i, i + 400);
-  const m = win.match(/content\s*=\s*["']([^"']+)["']/i);
-  return m ? decodeHtml(m[1]) : null;
+// ---------- разбор карточки статьи из ленты ----------
+function parseCard(block) {
+  const slugM = block.match(/href="\/zhurnal\/([a-z0-9-]+)"/);
+  if (!slugM) return null;
+  const slug = slugM[1];
+  const titleM = block.match(/<h2[^>]*>\s*<a[^>]*href="\/zhurnal\/[^"]*"[^>]*>([\s\S]*?)<\/a>\s*<\/h2>/i);
+  const title = titleM ? stripTags(titleM[1]) : slug.replace(/-/g, " ");
+  const imgM = block.match(/src="(\/uploads\/originals\/[^"]+)"/);
+  const dateM = block.match(/<time[^>]*>([^<]+)<\/time>/i);
+  // описание: первый <p> после заголовка
+  let desc = "";
+  const h2i = block.search(/<h2/i);
+  const afterH2 = h2i >= 0 ? block.slice(h2i) : block;
+  const pM = afterH2.match(/<p[^>]*>([\s\S]*?)<\/p>/i);
+  if (pM) desc = stripTags(pM[1]);
+  return {
+    slug,
+    url: SITE + "/zhurnal/" + slug,
+    title,
+    desc: desc.slice(0, 400),
+    image: imgM ? SITE + imgM[1] : null,
+    date: dateM ? dateM[1].trim() : ""
+  };
 }
 
-// ---------- разбор sitemap ----------
-async function fetchJournalSitemap() {
-  const xml = await fetchText(SM);
-  if (!xml) throw new Error("sitemap недоступен: " + SM);
+async function fetchJournalFeed() {
   const out = [];
-  const re = /<url>\s*<loc>([^<]+)<\/loc>\s*<lastmod>([^<]*)<\/lastmod>/g;
-  let m;
-  while ((m = re.exec(xml))) {
-    const loc = m[1].trim();
-    const mm = loc.match(/\/zhurnal\/([^\/?#]+)/);
-    if (!mm) continue;
-    out.push({ slug: mm[1], url: loc, lastmod: m[2] || "" });
-  }
   const seen = new Set();
-  return out.filter(e => !seen.has(e.slug) && seen.add(e.slug));
-}
-
-// ---------- извлечение данных статьи ----------
-async function fetchArticle(slug) {
-  const url = SITE + "/zhurnal/" + slug;
-  const html = await fetchText(url);
-  if (!html) return null;
-  const ogTitle = metaContent(html, "og:title");
-  const ogDesc = metaContent(html, "og:description");
-  const ogImage = metaContent(html, "og:image");
-  const hm = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
-  let title = hm ? stripTags(hm[1]) : ogTitle;
-  if (!title) title = slug.replace(/-/g, " ");
-  let desc = ogDesc && ogDesc.length > 20 ? ogDesc : null;
-  if (!desc) {
-    const tail = html.indexOf("Читайте также");
-    const body = html.slice(html.indexOf("<h1"), tail > -1 ? tail : html.length);
-    const pm = body.match(/<p[^>]*>([\s\S]*?)<\/p>/g) || [];
-    for (const p of pm) {
-      const t = stripTags(p);
-      if (t.length > 60) { desc = t; break; }
+  for (let p = 1; p <= FEED_PAGES; p++) {
+    const url = p === 1 ? SITE + "/zhurnal" : SITE + "/zhurnal?page=" + p;
+    const html = await fetchText(url);
+    if (!html) { console.log("WARN: лента не загрузилась:", url); continue; }
+    const parts = html.split('<article class="tr-journal-card');
+    for (let i = 1; i < parts.length; i++) {
+      const a = parseCard(parts[i]);
+      if (a && !seen.has(a.slug)) { seen.add(a.slug); out.push(a); }
     }
   }
-  return { slug, url, title, desc: desc ? desc.slice(0, 400) : "", image: ogImage || null };
+  return out; // порядок: новые сначала (страница 1 -> страница 2)
 }
 
 // ---------- отправка ----------
@@ -147,19 +140,44 @@ async function sendAnnounce(a) {
   return r;
 }
 
+// данные одной статьи со страницы (для режима test)
+async function fetchArticle(slug) {
+  const html = await fetchText(SITE + "/zhurnal/" + slug);
+  if (!html) return null;
+  const h1m = html.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
+  const imgM =
+    html.match(/<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i) ||
+    html.match(/<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i) ||
+    html.match(/src="(\/uploads\/originals\/[^"]+)"/);
+  let desc = "";
+  const tail = html.indexOf("Читайте также");
+  const bd = html.slice(html.indexOf("<h1"), tail > -1 ? tail : html.length);
+  const pM = bd.match(/<p[^>]*>([\s\S]*?)<\/p>/i);
+  if (pM) desc = stripTags(pM[1]);
+  const img = imgM ? imgM[1] : null;
+  return {
+    slug,
+    url: SITE + "/zhurnal/" + slug,
+    title: h1m ? stripTags(h1m[1]) : slug.replace(/-/g, " "),
+    desc: desc.slice(0, 400),
+    image: img ? (img.startsWith("http") ? img : SITE + img) : null,
+    date: ""
+  };
+}
+
 // ---------- режимы ----------
 const mode = process.argv[2];
 const arg2 = process.argv[3];
 
 (async () => {
-  const entries = await fetchJournalSitemap();
-  console.log("Sitemap: статей найдено —", entries.length);
+  const feed = await fetchJournalFeed();
+  console.log("Лента: статей найдено (страницы 1.." + FEED_PAGES + ") —", feed.length);
 
   if (mode === "baseline") {
     const log = readLog();
     let n = 0;
-    for (const e of entries) {
-      if (!log[e.slug]) { log[e.slug] = { url: e.url, lastmod: e.lastmod, sent_at: null, baseline: true }; n++; }
+    for (const e of feed) {
+      if (!log[e.slug]) { log[e.slug] = { url: e.url, title: e.title, sent_at: null, baseline: true }; n++; }
     }
     writeLog(log);
     console.log("Baseline записан: помечено —", n, "статей. Всего в логе:", Object.keys(log).length);
@@ -167,13 +185,12 @@ const arg2 = process.argv[3];
   }
 
   if (mode === "probe") {
-    if (!arg2) { console.log("укажите slug"); return; }
-    const a = await fetchArticle(arg2);
-    if (!a) { console.log("не удалось загрузить страницу"); return; }
-    console.log("title:", a.title);
-    console.log("desc :", a.desc ? a.desc.slice(0, 200) : "(нет)");
-    console.log("image:", a.image);
-    console.log("\n--- caption ---\n" + captionOf(a));
+    for (const e of feed.slice(0, 5)) {
+      console.log("\nslug:", e.slug);
+      console.log("date:", e.date, "| title:", e.title);
+      console.log("desc:", e.desc ? e.desc.slice(0, 120) : "(нет)");
+      console.log("image:", e.image);
+    }
     return;
   }
 
@@ -191,17 +208,13 @@ const arg2 = process.argv[3];
 
   // режим "run" (используется GitHub Actions)
   const log = readLog();
-  const fresh = entries
-    .filter(e => !log[e.slug])
-    .sort((a, b) => (a.lastmod < b.lastmod ? -1 : a.lastmod > b.lastmod ? 1 : 0));
+  const fresh = feed.filter(e => !log[e.slug]);
   console.log("Новых статей (нет в логе):", fresh.length);
   if (fresh.length === 0) { console.log("Анонсировать нечего."); return; }
-  for (const e of fresh) {
-    const a = await fetchArticle(e.slug);
-    if (!a) { console.log("SKIP (страница не загрузилась):", e.slug); continue; }
+  for (const a of fresh) {
     try {
       const res = await sendAnnounce(a);
-      log[a.slug] = { url: a.url, lastmod: e.lastmod, title: a.title, sent_at: new Date().toISOString(), message_id: res && res.message_id };
+      log[a.slug] = { url: a.url, title: a.title, date: a.date, sent_at: new Date().toISOString(), message_id: res && res.message_id };
       writeLog(log);
       console.log("OK:", a.slug, "->", res && res.message_id);
     } catch (err) {

@@ -32,7 +32,7 @@ jobs:
           git add telegram_posted.json
           if ! git diff --cached --quiet; then
             git commit -m "chore: update posted log [skip ci]"
-            git push
+            git push origin HEAD:main
           else
             echo "no state changes"
           fi

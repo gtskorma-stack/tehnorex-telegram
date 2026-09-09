@@ -1,0 +1,38 @@
+name: Announce new articles
+
+on:
+  schedule:
+    # каждые 5 минут (UTC) — минимально поддерживаемый интервал GitHub Actions
+    - cron: "*/5 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: announce
+  cancel-in-progress: false
+
+jobs:
+  announce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run announce script
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: node tg_announce.js run
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add telegram_posted.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update posted log [skip ci]"
+            git push
+          else
+            echo "no state changes"
+          fi

@@ -2335,5 +2335,26 @@
   "date": "2026-09-10",
   "sent_at": "2026-09-10T21:00:57.199Z",
   "message_id": 2166
+ },
+ "starship-dva-puska-pervyj-orbitalnyj": {
+  "url": "https://tehnorex.by/zhurnal/starship-dva-puska-pervyj-orbitalnyj",
+  "title": "Два Starship готовят к старту: первый орбитальный полёт на подходе",
+  "date": "2026-09-10",
+  "sent_at": "2026-09-10T21:11:59.996Z",
+  "message_id": 2167
+ },
+ "evropa-pilotiruemaya-kapsula-za-10-let": {
+  "url": "https://tehnorex.by/zhurnal/evropa-pilotiruemaya-kapsula-za-10-let",
+  "title": "Европа захотела свою пилотируемую капсулу: 10 лет и миллиард евро в год",
+  "date": "2026-09-10",
+  "sent_at": "2026-09-10T21:12:01.045Z",
+  "message_id": 2168
+ },
+ "ii-uprostil-zhaloby-gossluzhby-potok-obrashchenij": {
+  "url": "https://tehnorex.by/zhurnal/ii-uprostil-zhaloby-gossluzhby-potok-obrashchenij",
+  "title": "ИИ упростил подачу жалоб: госслужбы по всему миру захлебнулись обращениями",
+  "date": "2026-09-10",
+  "sent_at": "2026-09-10T21:12:02.160Z",
+  "message_id": 2169
  }
 }

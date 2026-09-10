@@ -1901,5 +1901,26 @@
   "date": "2026-09-10",
   "sent_at": "2026-09-10T11:27:28.502Z",
   "message_id": 2104
+ },
+ "elektromobili-deshevle-benzina-icct-belarus": {
+  "url": "https://tehnorex.by/zhurnal/elektromobili-deshevle-benzina-icct-belarus",
+  "title": "100 км за 2,8 рубля дома против 19,2 на бензине: что показало исследование ICCT об электромобилях",
+  "date": "2026-09-10",
+  "sent_at": "2026-09-10T11:38:14.235Z",
+  "message_id": 2105
+ },
+ "apple-sputnikovaya-svyaz-prodlenie-belarus": {
+  "url": "https://tehnorex.by/zhurnal/apple-sputnikovaya-svyaz-prodlenie-belarus",
+  "title": "Apple продлила бесплатный спутник для iPhone 14–16, но Беларусь в список не входит",
+  "date": "2026-09-10",
+  "sent_at": "2026-09-10T11:38:15.619Z",
+  "message_id": 2106
+ },
+ "switch-2-vrr-televizor-proshivka-23": {
+  "url": "https://tehnorex.by/zhurnal/switch-2-vrr-televizor-proshivka-23",
+  "title": "Switch 2 научилась VRR на телевизоре: прошивка 23.0.0 убирает рывки картинки",
+  "date": "2026-09-10",
+  "sent_at": "2026-09-10T11:38:16.780Z",
+  "message_id": 2107
  }
 }

@@ -2286,5 +2286,19 @@
   "date": "2026-09-10",
   "sent_at": "2026-09-10T20:39:39.503Z",
   "message_id": 2159
+ },
+ "ibm-nasa-otkrytaya-ii-model-dlya-luny": {
+  "url": "https://tehnorex.by/zhurnal/ibm-nasa-otkrytaya-ii-model-dlya-luny",
+  "title": "IBM и NASA выложили в открытый доступ ИИ-модель для изучения Луны",
+  "date": "2026-09-10",
+  "sent_at": "2026-09-10T20:47:32.034Z",
+  "message_id": 2160
+ },
+ "endryu-tallok-uhodit-iz-meta-v-anthropic": {
+  "url": "https://tehnorex.by/zhurnal/endryu-tallok-uhodit-iz-meta-v-anthropic",
+  "title": "Эндрю Таллок уходит из Meta в Anthropic, не проработав и года",
+  "date": "2026-09-10",
+  "sent_at": "2026-09-10T20:47:33.044Z",
+  "message_id": 2161
  }
 }

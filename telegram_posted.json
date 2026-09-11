@@ -2552,5 +2552,12 @@
   "date": "2026-09-11",
   "sent_at": "2026-09-11T16:19:18.318Z",
   "message_id": 2197
+ },
+ "anthropic-claude-zablokirovala-zaprosy-po-biooruzhiyu": {
+  "url": "https://tehnorex.by/zhurnal/anthropic-claude-zablokirovala-zaprosy-po-biooruzhiyu",
+  "title": "Anthropic: Claude пытались использовать в исследованиях биооружия",
+  "date": "2026-09-11",
+  "sent_at": "2026-09-11T16:31:52.538Z",
+  "message_id": 2198
  }
 }

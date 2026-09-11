@@ -2538,5 +2538,19 @@
   "date": "2026-09-11",
   "sent_at": "2026-09-11T16:03:45.817Z",
   "message_id": 2195
+ },
+ "prodazhi-nastolnyh-cpu-upali-na-33-procenta": {
+  "url": "https://tehnorex.by/zhurnal/prodazhi-nastolnyh-cpu-upali-na-33-procenta",
+  "title": "Продажи настольных процессоров рухнули на 33%, зато почти каждый ПК с видеокартой",
+  "date": "2026-09-11",
+  "sent_at": "2026-09-11T16:19:17.214Z",
+  "message_id": 2196
+ },
+ "windows-11-cloud-rebuild-pereustanovka-iz-oblaka": {
+  "url": "https://tehnorex.by/zhurnal/windows-11-cloud-rebuild-pereustanovka-iz-oblaka",
+  "title": "Windows 11 научилась переустанавливаться из облака без флешки",
+  "date": "2026-09-11",
+  "sent_at": "2026-09-11T16:19:18.318Z",
+  "message_id": 2197
  }
 }

@@ -2531,5 +2531,12 @@
   "date": "2026-09-11",
   "sent_at": "2026-09-11T11:49:10.944Z",
   "message_id": 2194
+ },
+ "openai-gpt-live-1-golosovaya-model-api": {
+  "url": "https://tehnorex.by/zhurnal/openai-gpt-live-1-golosovaya-model-api",
+  "title": "GPT-Live-1: OpenAI открыла голос, который говорит и слушает сразу",
+  "date": "2026-09-11",
+  "sent_at": "2026-09-11T16:03:45.817Z",
+  "message_id": 2195
  }
 }

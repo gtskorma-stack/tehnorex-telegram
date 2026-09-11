@@ -2433,5 +2433,12 @@
   "date": "2026-09-11",
   "sent_at": "2026-09-11T08:19:23.024Z",
   "message_id": 2180
+ },
+ "openai-avtomaticheskij-issledovatel": {
+  "url": "https://tehnorex.by/zhurnal/openai-avtomaticheskij-issledovatel",
+  "title": "OpenAI построила «автоматического исследователя-стажёра»: 3,1 агент-дня на человеко-день",
+  "date": "2026-09-11",
+  "sent_at": "2026-09-11T08:32:54.378Z",
+  "message_id": 2181
  }
 }

@@ -2804,5 +2804,19 @@
   "date": "2026-09-12",
   "sent_at": "2026-09-12T10:03:24.210Z",
   "message_id": 2233
+ },
+ "anthropic-tri-scenariya-ii-do-2030": {
+  "url": "https://tehnorex.by/zhurnal/anthropic-tri-scenariya-ii-do-2030",
+  "title": "Anthropic нарисовала три сценария ИИ до 2030: от роста экономики до массовой безработицы",
+  "date": "2026-09-12",
+  "sent_at": "2026-09-12T10:16:46.831Z",
+  "message_id": 2234
+ },
+ "kustarnaya-rtx-5090-96-gb-za-3888-dollarov": {
+  "url": "https://tehnorex.by/zhurnal/kustarnaya-rtx-5090-96-gb-za-3888-dollarov",
+  "title": "Кустарная RTX 5090 на 96 ГБ памяти продают за 3888 долларов. Это не Nvidia",
+  "date": "2026-09-12",
+  "sent_at": "2026-09-12T10:16:47.955Z",
+  "message_id": 2235
  }
 }

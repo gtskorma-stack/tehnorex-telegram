@@ -3322,5 +3322,19 @@
   "date": "2026-09-13",
   "sent_at": "2026-09-13T21:05:50.845Z",
   "message_id": 2307
+ },
+ "comac-gumanoidy-soberut-passazhirskie-samolety": {
+  "url": "https://tehnorex.by/zhurnal/comac-gumanoidy-soberut-passazhirskie-samolety",
+  "title": "COMAC хочет собирать пассажирские самолёты гуманоидами. Boeing так не делает",
+  "date": "2026-09-13",
+  "sent_at": "2026-09-13T21:18:18.533Z",
+  "message_id": 2308
+ },
+ "anthropic-amodei-botnet-roj-ii-6-12-mesyacev": {
+  "url": "https://tehnorex.by/zhurnal/anthropic-amodei-botnet-roj-ii-6-12-mesyacev",
+  "title": "Глава Anthropic: «рой» ИИ-ботнетов может захватить сеть за 6–12 месяцев",
+  "date": "2026-09-13",
+  "sent_at": "2026-09-13T21:18:19.810Z",
+  "message_id": 2309
  }
 }

@@ -3574,5 +3574,26 @@
   "date": "2026-09-14",
   "sent_at": "2026-09-14T11:26:34.963Z",
   "message_id": 2343
+ },
+ "windows-11-ustanovka-bez-akkaunta-microsoft-snova": {
+  "url": "https://tehnorex.by/zhurnal/windows-11-ustanovka-bez-akkaunta-microsoft-snova",
+  "title": "Windows 11 снова ставят без сети и без учётки Microsoft. Дыру уже прикрывали",
+  "date": "2026-09-14",
+  "sent_at": "2026-09-14T12:30:34.268Z",
+  "message_id": 2344
+ },
+ "google-prilozhenie-macos-teardown-play-services": {
+  "url": "https://tehnorex.by/zhurnal/google-prilozhenie-macos-teardown-play-services",
+  "title": "Google готовит своё приложение для Mac. Пока это строка в Play Services",
+  "date": "2026-09-14",
+  "sent_at": "2026-09-14T12:30:35.538Z",
+  "message_id": 2345
+ },
+ "honor-robot-phone-pesok-ip54-razborka": {
+  "url": "https://tehnorex.by/zhurnal/honor-robot-phone-pesok-ip54-razborka",
+  "title": "Honor Robot Phone не переживает пляж: песок убил подвес, IP54 вместо IP68",
+  "date": "2026-09-14",
+  "sent_at": "2026-09-14T12:30:36.955Z",
+  "message_id": 2346
  }
 }

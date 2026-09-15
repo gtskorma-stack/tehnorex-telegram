@@ -3812,5 +3812,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-15T08:37:43.160Z",
   "message_id": 2377
+ },
+ "asus-rog-strix-xg27acdmsr-320-gts-1300-nit": {
+  "url": "https://tehnorex.by/zhurnal/asus-rog-strix-xg27acdmsr-320-gts-1300-nit",
+  "title": "ASUS ROG Strix XG27ACDMSR: QD-OLED 320 Гц и 1300 нит, цены нет",
+  "date": "сегодня",
+  "sent_at": "2026-09-15T08:51:44.026Z",
+  "message_id": 2378
+ },
+ "claude-money-bank-schet-anthropic": {
+  "url": "https://tehnorex.by/zhurnal/claude-money-bank-schet-anthropic",
+  "title": "Claude Money: Anthropic готовит доступ ИИ к банковскому счёту",
+  "date": "сегодня",
+  "sent_at": "2026-09-15T08:51:45.054Z",
+  "message_id": 2379
  }
 }

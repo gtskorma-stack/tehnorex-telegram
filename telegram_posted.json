@@ -3931,5 +3931,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-15T10:33:53.037Z",
   "message_id": 2394
+ },
+ "fire-tv-sideload-bug-downloader": {
+  "url": "https://tehnorex.by/zhurnal/fire-tv-sideload-bug-downloader",
+  "title": "Amazon не закрывала сторонние приложения на Fire TV: пропал список разрешений",
+  "date": "сегодня",
+  "sent_at": "2026-09-15T10:45:18.784Z",
+  "message_id": 2395
+ },
+ "meta-display-audio-only-za-rulem": {
+  "url": "https://tehnorex.by/zhurnal/meta-display-audio-only-za-rulem",
+  "title": "Meta Display за рулём сама гасит картинку: остаётся только звук",
+  "date": "сегодня",
+  "sent_at": "2026-09-15T10:45:19.822Z",
+  "message_id": 2396
  }
 }

@@ -4008,5 +4008,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-15T12:42:48.399Z",
   "message_id": 2405
+ },
+ "gemini-daily-brief-refresh-on-demand": {
+  "url": "https://tehnorex.by/zhurnal/gemini-daily-brief-refresh-on-demand",
+  "title": "Gemini Daily Brief: в коде Google app появился Refresh по кнопке",
+  "date": "сегодня",
+  "sent_at": "2026-09-15T12:54:55.985Z",
+  "message_id": 2406
+ },
+ "gemini-overlay-svaip-svorachivaet-puzyr": {
+  "url": "https://tehnorex.by/zhurnal/gemini-overlay-svaip-svorachivaet-puzyr",
+  "title": "Gemini overlay: свайп влево сворачивает чат в пузырь, пока он думает",
+  "date": "сегодня",
+  "sent_at": "2026-09-15T12:54:57.389Z",
+  "message_id": 2407
  }
 }

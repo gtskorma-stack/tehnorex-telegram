@@ -4211,5 +4211,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-16T16:35:56.994Z",
   "message_id": 2434
+ },
+ "amd-rdna-5-neyronnyy-rendering-analog-dlss-5": {
+  "url": "https://tehnorex.by/zhurnal/amd-rdna-5-neyronnyy-rendering-analog-dlss-5",
+  "title": "AMD готовит нейронный рендеринг в RDNA 5: ответ на DLSS 5",
+  "date": "сегодня",
+  "sent_at": "2026-09-16T16:46:58.395Z",
+  "message_id": 2435
+ },
+ "microsoft-meropriyatie-windows-surface-7-oktyabrya": {
+  "url": "https://tehnorex.by/zhurnal/microsoft-meropriyatie-windows-surface-7-oktyabrya",
+  "title": "Microsoft собирает мероприятие 7 октября: локальный ИИ и новые Surface",
+  "date": "сегодня",
+  "sent_at": "2026-09-16T16:46:59.404Z",
+  "message_id": 2436
  }
 }

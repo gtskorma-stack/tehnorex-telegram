@@ -4309,5 +4309,26 @@
   "date": "сегодня",
   "sent_at": "2026-09-16T18:11:35.764Z",
   "message_id": 2448
+ },
+ "nvidia-rubin-amd-rdna-5-ne-do-2028-sluh": {
+  "url": "https://tehnorex.by/zhurnal/nvidia-rubin-amd-rdna-5-ne-do-2028-sluh",
+  "title": "Слух: Nvidia Rubin и AMD RDNA 5 не выйдут до 2028 года",
+  "date": "сегодня",
+  "sent_at": "2026-09-16T18:26:21.143Z",
+  "message_id": 2449
+ },
+ "steamos-podderzhka-drajverov-nvidia": {
+  "url": "https://tehnorex.by/zhurnal/steamos-podderzhka-drajverov-nvidia",
+  "title": "Valve добавила драйверы Nvidia в SteamOS: монополия AMD закончилась",
+  "date": "сегодня",
+  "sent_at": "2026-09-16T18:26:22.192Z",
+  "message_id": 2450
+ },
+ "meta-luna-umnye-ochki-bez-kamery": {
+  "url": "https://tehnorex.by/zhurnal/meta-luna-umnye-ochki-bez-kamery",
+  "title": "Meta готовит очки Luna без камеры: шесть микрофонов вместо объектива",
+  "date": "сегодня",
+  "sent_at": "2026-09-16T18:26:23.345Z",
+  "message_id": 2451
  }
 }

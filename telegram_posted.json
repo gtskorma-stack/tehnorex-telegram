@@ -4512,5 +4512,12 @@
   "date": "сегодня",
   "sent_at": "2026-09-17T13:56:24.767Z",
   "message_id": 2477
+ },
+ "openai-otchet-opasnoe-povedenie-modelej": {
+  "url": "https://tehnorex.by/zhurnal/openai-otchet-opasnoe-povedenie-modelej",
+  "title": "OpenAI показала, как модели на тестах выдумывали факты и прятались от проверяющих",
+  "date": "сегодня",
+  "sent_at": "2026-09-17T14:04:39.459Z",
+  "message_id": 2478
  }
 }

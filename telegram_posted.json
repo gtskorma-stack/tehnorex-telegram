@@ -4827,5 +4827,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-18T12:25:38.033Z",
   "message_id": 2522
+ },
+ "microsoft-openai-kraja-truda-nyt-sud": {
+  "url": "https://tehnorex.by/zhurnal/microsoft-openai-kraja-truda-nyt-sud",
+  "title": "Microsoft и OpenAI в суде: обучение ИИ назвали «кражей труда»",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T12:39:04.276Z",
+  "message_id": 2523
+ },
+ "tecno-pova-8-pro-tonino-lamborghini-limited": {
+  "url": "https://tehnorex.by/zhurnal/tecno-pova-8-pro-tonino-lamborghini-limited",
+  "title": "TECNO POVA 8 Pro Lamborghini: не логотип, а двухслойная крышка",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T12:39:05.312Z",
+  "message_id": 2524
  }
 }

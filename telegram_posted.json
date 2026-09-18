@@ -4848,5 +4848,26 @@
   "date": "сегодня",
   "sent_at": "2026-09-18T12:51:14.264Z",
   "message_id": 2525
+ },
+ "windows-11-autosr-intel-core-ultra-series-3": {
+  "url": "https://tehnorex.by/zhurnal/windows-11-autosr-intel-core-ultra-series-3",
+  "title": "Auto SR в Windows 11 добрался до Intel Core Ultra Series 3",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T19:18:16.342Z",
+  "message_id": 2526
+ },
+ "honor-tiangong-axb35-petaflops-mini-pk": {
+  "url": "https://tehnorex.by/zhurnal/honor-tiangong-axb35-petaflops-mini-pk",
+  "title": "Honor Tiangong AXB35: петафлопс FP4 в корпусе на два литра",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T19:18:18.114Z",
+  "message_id": 2527
+ },
+ "xcode-27-1-beta-iphone-duo-simulator": {
+  "url": "https://tehnorex.by/zhurnal/xcode-27-1-beta-iphone-duo-simulator",
+  "title": "Xcode 27.1 beta: симулятор iPhone Duo и месяц на адаптацию приложений",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T19:18:19.089Z",
+  "message_id": 2528
  }
 }

@@ -5002,5 +5002,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-18T21:21:31.603Z",
   "message_id": 2547
+ },
+ "cxmt-nand-issledovatelskij-centr-pekin": {
+  "url": "https://tehnorex.by/zhurnal/cxmt-nand-issledovatelskij-centr-pekin",
+  "title": "CXMT лезет в NAND: исследовательский центр в Пекине и опытная линия",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T21:31:02.102Z",
+  "message_id": 2548
+ },
+ "witcher-4-unreal-engine-5-ne-iz-za-cyberpunk": {
+  "url": "https://tehnorex.by/zhurnal/witcher-4-unreal-engine-5-ne-iz-za-cyberpunk",
+  "title": "CDPR: Witcher 4 ушёл на Unreal Engine 5 не из‑за провала Cyberpunk",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T21:31:03.179Z",
+  "message_id": 2549
  }
 }

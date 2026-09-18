@@ -4897,5 +4897,12 @@
   "date": "сегодня",
   "sent_at": "2026-09-18T19:40:45.219Z",
   "message_id": 2532
+ },
+ "jev-model-bez-teksta-ot-soavtora-chatgpt": {
+  "url": "https://tehnorex.by/zhurnal/jev-model-bez-teksta-ot-soavtora-chatgpt",
+  "title": "Jev: модель без текста от соавтора ChatGPT, которая отдаёт вероятности",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T19:46:56.405Z",
+  "message_id": 2533
  }
 }

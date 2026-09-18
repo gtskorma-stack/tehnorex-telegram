@@ -5037,5 +5037,26 @@
   "date": "сегодня",
   "sent_at": "2026-09-18T21:51:48.497Z",
   "message_id": 2552
+ },
+ "google-android-17-qpr1-zakryvaet-api-ot-aosp": {
+  "url": "https://tehnorex.by/zhurnal/google-android-17-qpr1-zakryvaet-api-ot-aosp",
+  "title": "Android 17 QPR1: часть API больше не в AOSP. GrapheneOS не выпускает сборку",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T22:06:23.383Z",
+  "message_id": 2553
+ },
+ "amd-generativnoe-osveshchenie-vmesto-traissirovki": {
+  "url": "https://tehnorex.by/zhurnal/amd-generativnoe-osveshchenie-vmesto-traissirovki",
+  "title": "AMD учит нейросеть рисовать свет вместо трассировки. Пока 3 кадра в секунду",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T22:06:24.613Z",
+  "message_id": 2554
+ },
+ "gemini-android-auto-ne-upravlyaet-umnym-domom": {
+  "url": "https://tehnorex.by/zhurnal/gemini-android-auto-ne-upravlyaet-umnym-domom",
+  "title": "Gemini в Android Auto больше не трогает умный дом. Говорит, что за рулём нельзя",
+  "date": "сегодня",
+  "sent_at": "2026-09-18T22:06:25.817Z",
+  "message_id": 2555
  }
 }

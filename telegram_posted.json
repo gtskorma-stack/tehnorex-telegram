@@ -5632,5 +5632,47 @@
   "date": "вчера",
   "sent_at": "2026-09-19T21:00:42.727Z",
   "message_id": 2637
+ },
+ "ff7-revelation-200-gb-odin-disk-dokachka-2027": {
+  "url": "https://tehnorex.by/zhurnal/ff7-revelation-200-gb-odin-disk-dokachka-2027",
+  "title": "FF7 Revelation: около 200 ГБ и один диск. Остальное качают. Дата — 8 апреля 2027",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T21:12:10.312Z",
+  "message_id": 2638
+ },
+ "mazama-skvazhina-45-km-400c-15-mvt-newberry": {
+  "url": "https://tehnorex.by/zhurnal/mazama-skvazhina-45-km-400c-15-mvt-newberry",
+  "title": "Mazama бурит к 400 °C: 4,5 км и до 15 МВт со скважины. Это план 2027-го",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T21:12:11.393Z",
+  "message_id": 2639
+ },
+ "tiangong-5-let-medicina-267-proektov-150-tb": {
+  "url": "https://tehnorex.by/zhurnal/tiangong-5-let-medicina-267-proektov-150-tb",
+  "title": "«Тяньгун» пять лет: 267 проектов, 150 ТБ данных. Скафандр «Ванъюй» ещё на земле",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T21:12:12.491Z",
+  "message_id": 2640
+ },
+ "hypertron-sw01-chetveronog-45-gradusov-120-kg": {
+  "url": "https://tehnorex.by/zhurnal/hypertron-sw01-chetveronog-45-gradusov-120-kg",
+  "title": "Hypertron-SW01: 45° в гору, 120 кг стоя, IP67. Это паспорт, не полигон",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T21:12:13.615Z",
+  "message_id": 2641
+ },
+ "kitai-hl-4-tokamak-25-tesla-sverhprovodniki": {
+  "url": "https://tehnorex.by/zhurnal/kitai-hl-4-tokamak-25-tesla-sverhprovodniki",
+  "title": "Китай показал HL-4: токамак на 25 тесла. Это стенд, не станция",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T21:12:14.678Z",
+  "message_id": 2642
+ },
+ "piesat-2-13-16-taiyuan-cz-2d-chetyre-sar": {
+  "url": "https://tehnorex.by/zhurnal/piesat-2-13-16-taiyuan-cz-2d-chetyre-sar",
+  "title": "С Тайюаня ушли четыре SAR PIESAT-2. «Чанчжэн-2D», полёт №668",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T21:12:15.864Z",
+  "message_id": 2643
  }
 }

@@ -5429,5 +5429,12 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T15:05:41.286Z",
   "message_id": 2608
+ },
+ "amd-epyc-9996-zen-6-specrate-34-procenta-yadro": {
+  "url": "https://tehnorex.by/zhurnal/amd-epyc-9996-zen-6-specrate-34-procenta-yadro",
+  "title": "AMD: EPYC 9996 на Zen 6 на 34% быстрее ядра Zen 5. Это не чистый IPC",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T15:17:53.036Z",
+  "message_id": 2609
  }
 }

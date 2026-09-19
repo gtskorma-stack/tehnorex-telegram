@@ -5597,5 +5597,26 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T20:48:52.162Z",
   "message_id": 2632
+ },
+ "chernobyl-icsrm-ensdf-pervaya-partiya-zahoronenie": {
+  "url": "https://tehnorex.by/zhurnal/chernobyl-icsrm-ensdf-pervaya-partiya-zahoronenie",
+  "title": "Чернобыль отправил первую партию отходов на захоронение. Семь упаковок в ENSDF",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T20:54:33.137Z",
+  "message_id": 2633
+ },
+ "olovyannye-perovskity-goryachie-elektrony-1000-raz": {
+  "url": "https://tehnorex.by/zhurnal/olovyannye-perovskity-goryachie-elektrony-1000-raz",
+  "title": "Оловянные перовскиты держат горячие электроны в 1000 раз дольше. КПД 33% ещё не сломан",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T20:54:34.532Z",
+  "message_id": 2634
+ },
+ "ligo-neiroset-ne-nashla-otkloneniya-einshteina-gw150914": {
+  "url": "https://tehnorex.by/zhurnal/ligo-neiroset-ne-nashla-otkloneniya-einshteina-gw150914",
+  "title": "Нейросеть не нашла отклонений от Эйнштейна в LIGO. Ниже порога — монетка",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T20:54:35.638Z",
+  "message_id": 2635
  }
 }

@@ -5618,5 +5618,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T20:54:35.638Z",
   "message_id": 2635
+ },
+ "jwst-sn-1983v-pylevoi-rezervuar-40-let-ngc-1365": {
+  "url": "https://tehnorex.by/zhurnal/jwst-sn-1983v-pylevoi-rezervuar-40-let-ngc-1365",
+  "title": "JWST нашёл пыль сверхновой 1983V спустя 40 лет. Холодный резервуар — нижняя оценка",
+  "date": "вчера",
+  "sent_at": "2026-09-19T21:00:41.346Z",
+  "message_id": 2636
+ },
+ "microsoft-hecht-krazha-truda-parsing-novostei-sud": {
+  "url": "https://tehnorex.by/zhurnal/microsoft-hecht-krazha-truda-parsing-novostei-sud",
+  "title": "Техлид Microsoft назвал парсинг новостей «крупнейшей кражей труда». Документы в суде",
+  "date": "вчера",
+  "sent_at": "2026-09-19T21:00:42.727Z",
+  "message_id": 2637
  }
 }

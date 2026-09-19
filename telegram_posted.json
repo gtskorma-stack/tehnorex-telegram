@@ -5457,5 +5457,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T15:54:56.484Z",
   "message_id": 2612
+ },
+ "isk-anthropic-openai-google-xai-zamedlenie-ii": {
+  "url": "https://tehnorex.by/zhurnal/isk-anthropic-openai-google-xai-zamedlenie-ii",
+  "title": "На Anthropic, OpenAI, Google и xAI подали в суд: «притормозить ИИ» считают сговором",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T16:24:26.350Z",
+  "message_id": 2613
+ },
+ "gpt6-astra-rasshifrovala-adfgvx-1918-sevastopol": {
+  "url": "https://tehnorex.by/zhurnal/gpt6-astra-rasshifrovala-adfgvx-1918-sevastopol",
+  "title": "Astra сняла немецкое ADFGVX 1918-го: крейсер у Севастополя. Лог HMS Canterbury совпал",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T16:24:27.464Z",
+  "message_id": 2614
  }
 }

@@ -5562,5 +5562,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T20:15:25.350Z",
   "message_id": 2627
+ },
+ "gpd-win-5-ryzen-ai-max-388-8-yader-1720": {
+  "url": "https://tehnorex.by/zhurnal/gpd-win-5-ryzen-ai-max-388-8-yader-1720",
+  "title": "GPD Win 5 дешевле: 8 ядер вместо 16, тот же iGPU. 32 ГБ и 1 ТБ за $1720",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T20:42:43.062Z",
+  "message_id": 2628
+ },
+ "anthropic-claude-26-procentov-rd-sleduyushchei-modeli": {
+  "url": "https://tehnorex.by/zhurnal/anthropic-claude-26-procentov-rd-sleduyushchei-modeli",
+  "title": "Anthropic: Claude сам ведёт 26% работ над следующей моделью. Рекурсии ещё нет",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T20:42:44.228Z",
+  "message_id": 2629
  }
 }

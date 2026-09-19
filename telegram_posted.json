@@ -5373,5 +5373,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T13:34:40.084Z",
   "message_id": 2600
+ },
+ "vals-ai-benchmarking-andreessen-horowitz": {
+  "url": "https://tehnorex.by/zhurnal/vals-ai-benchmarking-andreessen-horowitz",
+  "title": "Vals: $40 млн от a16z. Бенчмарки для юр, фин и кодинга, тесты не публикуют",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T14:21:22.936Z",
+  "message_id": 2601
+ },
+ "openai-astra-for-law-iuridiceskaya-konfiguraciya": {
+  "url": "https://tehnorex.by/zhurnal/openai-astra-for-law-iuridiceskaya-konfiguraciya",
+  "title": "OpenAI Astra for Law: конфиденциальность, 40% прироста, 26 партнёрских плагинов",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T14:21:24.244Z",
+  "message_id": 2602
  }
 }

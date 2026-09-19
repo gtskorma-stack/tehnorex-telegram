@@ -5786,5 +5786,26 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T21:55:53.135Z",
   "message_id": 2659
+ },
+ "ai-safety-yang-brown-hugging-face-air-gap": {
+  "url": "https://tehnorex.by/zhurnal/ai-safety-yang-brown-hugging-face-air-gap",
+  "title": "Yang и Brown про safety: боты в интернете и тепло воздуха. Оба тезиса слабые",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T22:02:52.744Z",
+  "message_id": 2660
+ },
+ "typesafe-jev-ne-llm-veroyatnosti-ne-tekst": {
+  "url": "https://tehnorex.by/zhurnal/typesafe-jev-ne-llm-veroyatnosti-ne-tekst",
+  "title": "Jev от автора ChatGPT: не LLM, а вероятности. Токены ответа бесплатны",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T22:02:53.926Z",
+  "message_id": 2661
+ },
+ "world-models-ami-world-labs-molchat-o-produkte": {
+  "url": "https://tehnorex.by/zhurnal/world-models-ami-world-labs-molchat-o-produkte",
+  "title": "World models молчат о продукте. Денег много, слота в магазине нет",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T22:02:54.887Z",
+  "message_id": 2662
  }
 }

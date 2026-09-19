@@ -5184,5 +5184,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T10:28:08.509Z",
   "message_id": 2573
+ },
+ "tesla-semi-548-kvtch-cd-036-luchshe-chiron": {
+  "url": "https://tehnorex.by/zhurnal/tesla-semi-548-kvtch-cd-036-luchshe-chiron",
+  "title": "Tesla Semi: 548 кВт·ч, Cd 0,36 лучше Chiron. Серия на 3% экономичнее прототипа",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T10:44:08.447Z",
+  "message_id": 2574
+ },
+ "amd-protsessory-podorozhayut-na-10-tsmc": {
+  "url": "https://tehnorex.by/zhurnal/amd-protsessory-podorozhayut-na-10-tsmc",
+  "title": "AMD поднимает цены на процессоры на 10%. Виноват TSMC, не дефицит витрин",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T10:44:09.790Z",
+  "message_id": 2575
  }
 }

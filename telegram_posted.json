@@ -5198,5 +5198,12 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T10:44:09.790Z",
   "message_id": 2575
+ },
+ "qwen38-omni-flash-1-mln-tokenov-audio-video": {
+  "url": "https://tehnorex.by/zhurnal/qwen38-omni-flash-1-mln-tokenov-audio-video",
+  "title": "Qwen3.8-Omni-Flash: 1 млн токенов, звук и видео в одной модели. Аудио дешевле на 98%",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T10:50:29.124Z",
+  "message_id": 2576
  }
 }

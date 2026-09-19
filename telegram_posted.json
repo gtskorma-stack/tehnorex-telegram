@@ -5695,5 +5695,33 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T21:22:01.303Z",
   "message_id": 2646
+ },
+ "jwst-wise-0855-pogoda-voda-co-korichnevyj-karlik": {
+  "url": "https://tehnorex.by/zhurnal/jwst-wise-0855-pogoda-voda-co-korichnevyj-karlik",
+  "title": "JWST снял погоду на WISE 0855. Водяные облака и шквалы CO на 265 K",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T21:30:33.227Z",
+  "message_id": 2647
+ },
+ "slate-truck-24950-63-kvtch-205-mil-blank-slate": {
+  "url": "https://tehnorex.by/zhurnal/slate-truck-24950-63-kvtch-205-mil-blank-slate",
+  "title": "Slate Truck за $24 950: 63 кВт·ч и 205 миль. Дешевле рынка, короче конкурентов",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T21:30:34.226Z",
+  "message_id": 2648
+ },
+ "cern-base-step-92-antiprotona-8-km-gruzovik": {
+  "url": "https://tehnorex.by/zhurnal/cern-base-step-92-antiprotona-8-km-gruzovik",
+  "title": "CERN увёз 92 антипротона на грузовике. 8 км, ни одного не потеряли",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T21:30:35.222Z",
+  "message_id": 2649
+ },
+ "india-trai-caller-id-spam-otchety-operatoram": {
+  "url": "https://tehnorex.by/zhurnal/india-trai-caller-id-spam-otchety-operatoram",
+  "title": "Индия обязала caller-ID отдавать жалобы на спам операторам. Truecaller против",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T21:30:36.180Z",
+  "message_id": 2650
  }
 }

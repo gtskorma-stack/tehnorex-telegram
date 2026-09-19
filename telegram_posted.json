@@ -5436,5 +5436,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-19T15:17:53.036Z",
   "message_id": 2609
+ },
+ "radeon-rx-9050-4gb-na-37-procentov-medlennee-8gb": {
+  "url": "https://tehnorex.by/zhurnal/radeon-rx-9050-4gb-na-37-procentov-medlennee-8gb",
+  "title": "RX 9050 с 4 ГБ в среднем на 37% медленнее 8 ГБ. Это OEM, не витрина",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T15:48:56.074Z",
+  "message_id": 2610
+ },
+ "bragjack-rasshirenie-hijack-ai-agentov-brauzera": {
+  "url": "https://tehnorex.by/zhurnal/bragjack-rasshirenie-hijack-ai-agentov-brauzera",
+  "title": "BragJack: одно расширение уводит ИИ-агента Chrome, Edge, Comet, Neon и Claude",
+  "date": "сегодня",
+  "sent_at": "2026-09-19T15:48:57.106Z",
+  "message_id": 2611
  }
 }

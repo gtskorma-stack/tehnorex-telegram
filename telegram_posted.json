@@ -6115,5 +6115,12 @@
   "date": "сегодня",
   "sent_at": "2026-09-20T18:31:57.056Z",
   "message_id": 2706
+ },
+ "qwen-image-21-7b-prozrachnye-10-referensov": {
+  "url": "https://tehnorex.by/zhurnal/qwen-image-21-7b-prozrachnye-10-referensov",
+  "title": "Qwen-Image-2.1: 7B, прозрачные слои и до 10 референсов. Это веса, не Photoshop",
+  "date": "сегодня",
+  "sent_at": "2026-09-20T18:42:07.971Z",
+  "message_id": 2707
  }
 }

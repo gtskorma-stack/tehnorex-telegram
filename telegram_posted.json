@@ -5947,5 +5947,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-20T12:23:02.492Z",
   "message_id": 2682
+ },
+ "xiaomi-mijia-holodilnik-256l-1299-yuan-no-frost": {
+  "url": "https://tehnorex.by/zhurnal/xiaomi-mijia-holodilnik-256l-1299-yuan-no-frost",
+  "title": "Xiaomi Mijia 256 л за 1299 юаней: три двери, зона −20…+5 °C, No Frost",
+  "date": "сегодня",
+  "sent_at": "2026-09-20T12:47:31.689Z",
+  "message_id": 2683
+ },
+ "openai-codex-heapjack-overpatch-vyhod-iz-pesochnicy": {
+  "url": "https://tehnorex.by/zhurnal/openai-codex-heapjack-overpatch-vyhod-iz-pesochnicy",
+  "title": "Codex: две дыры в песочнице. Heapjack крутит команды на хосте из режима read-only",
+  "date": "сегодня",
+  "sent_at": "2026-09-20T12:47:32.945Z",
+  "message_id": 2684
  }
 }

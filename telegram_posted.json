@@ -5982,5 +5982,12 @@
   "date": "сегодня",
   "sent_at": "2026-09-20T13:41:55.686Z",
   "message_id": 2687
+ },
+ "hashfly-mozg-muhi-sha256-100-khs-ne-asic": {
+  "url": "https://tehnorex.by/zhurnal/hashfly-mozg-muhi-sha256-100-khs-ne-asic",
+  "title": "HashFly: «мозг мухи» считает SHA-256 в браузере. ~100 кХ/с, не 18 ТХ/с Apollo",
+  "date": "сегодня",
+  "sent_at": "2026-09-20T13:49:10.823Z",
+  "message_id": 2688
  }
 }

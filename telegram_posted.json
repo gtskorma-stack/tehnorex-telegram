@@ -6213,5 +6213,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-21T08:36:53.414Z",
   "message_id": 2720
+ },
+ "google-discover-dive-deeper-ii-svodki": {
+  "url": "https://tehnorex.by/zhurnal/google-discover-dive-deeper-ii-svodki",
+  "title": "Google Discover тестирует Dive deeper: сводка вместо сайта",
+  "date": "сегодня",
+  "sent_at": "2026-09-21T08:55:19.358Z",
+  "message_id": 2721
+ },
+ "yandeks-aliceai-foundation-80b-a3b-vesa-apache": {
+  "url": "https://tehnorex.by/zhurnal/yandeks-aliceai-foundation-80b-a3b-vesa-apache",
+  "title": "Яндекс открыл AliceAI-Foundation: 80 млрд, 3 млрд активных",
+  "date": "сегодня",
+  "sent_at": "2026-09-21T08:55:20.688Z",
+  "message_id": 2722
  }
 }

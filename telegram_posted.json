@@ -6500,5 +6500,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-22T08:35:07.379Z",
   "message_id": 2761
+ },
+ "openai-sovet-matematikov-princeton-bez-stop-krana": {
+  "url": "https://tehnorex.by/zhurnal/openai-sovet-matematikov-princeton-bez-stop-krana",
+  "title": "Совет математиков OpenAI не может замедлить лабораторию",
+  "date": "сегодня",
+  "sent_at": "2026-09-22T09:01:54.155Z",
+  "message_id": 2762
+ },
+ "mitsubishi-l200-evropa-dizel-24-39990": {
+  "url": "https://tehnorex.by/zhurnal/mitsubishi-l200-evropa-dizel-24-39990",
+  "title": "L200 вернулся в Европу: только дизель 2.4 и только двойная кабина",
+  "date": "сегодня",
+  "sent_at": "2026-09-22T09:01:55.286Z",
+  "message_id": 2763
  }
 }

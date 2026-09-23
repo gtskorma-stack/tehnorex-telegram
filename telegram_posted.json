@@ -6864,5 +6864,26 @@
   "date": "сегодня",
   "sent_at": "2026-09-23T17:28:28.602Z",
   "message_id": 2813
+ },
+ "gemini-3-8-flash-tts-flash-lite-golos": {
+  "url": "https://tehnorex.by/zhurnal/gemini-3-8-flash-tts-flash-lite-golos",
+  "title": "Gemini 3.8 Flash TTS: клон голоса по 30 секундам и режиссура по строкам",
+  "date": "сегодня",
+  "sent_at": "2026-09-23T17:38:01.578Z",
+  "message_id": 2814
+ },
+ "geely-zaryadka-2250-kvt-10-70-za-4-5-minuty": {
+  "url": "https://tehnorex.by/zhurnal/geely-zaryadka-2250-kvt-10-70-za-4-5-minuty",
+  "title": "Geely показала зарядку на 2250 кВт: 10–70 % за 4,5 минуты",
+  "date": "сегодня",
+  "sent_at": "2026-09-23T17:38:02.882Z",
+  "message_id": 2815
+ },
+ "galaxy-z-flip-8-mirror-view-kamera-assistant": {
+  "url": "https://tehnorex.by/zhurnal/galaxy-z-flip-8-mirror-view-kamera-assistant",
+  "title": "Galaxy Z Flip 8 умеет быть зеркалом: функция Mirror view и Camera Assistant",
+  "date": "сегодня",
+  "sent_at": "2026-09-23T17:38:04.085Z",
+  "message_id": 2816
  }
 }

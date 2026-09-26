@@ -7858,5 +7858,26 @@
   "date": "сегодня",
   "sent_at": "2026-09-26T15:33:28.512Z",
   "message_id": 2955
+ },
+ "qualcomm-unified-ai-compute-layer-modular": {
+  "url": "https://tehnorex.by/zhurnal/qualcomm-unified-ai-compute-layer-modular",
+  "title": "Qualcomm бросила вызов CUDA: единый слой для ИИ-вычислений и язык Mojo",
+  "date": "сегодня",
+  "sent_at": "2026-09-26T15:44:16.615Z",
+  "message_id": 2956
+ },
+ "crusoe-otkazalas-ot-turbin-boom-dlya-cod": {
+  "url": "https://tehnorex.by/zhurnal/crusoe-otkazalas-ot-turbin-boom-dlya-cod",
+  "title": "Crusoe отказалась от турбин Boom на $1,25 млрд для дата-центров ИИ",
+  "date": "сегодня",
+  "sent_at": "2026-09-26T15:44:17.940Z",
+  "message_id": 2957
+ },
+ "byd-seagull-vtoroe-pokolenie-flash-charging-300-kvt": {
+  "url": "https://tehnorex.by/zhurnal/byd-seagull-vtoroe-pokolenie-flash-charging-300-kvt",
+  "title": "BYD Seagull второго поколения: зарядка до 300 кВт и две батареи на выбор",
+  "date": "сегодня",
+  "sent_at": "2026-09-26T15:44:19.204Z",
+  "message_id": 2958
  }
 }

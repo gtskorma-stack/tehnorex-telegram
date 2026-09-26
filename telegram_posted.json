@@ -7795,5 +7795,19 @@
   "date": "сегодня",
   "sent_at": "2026-09-26T14:38:38.449Z",
   "message_id": 2946
+ },
+ "claude-nashel-novyj-crispr-kritika-uchyonyh": {
+  "url": "https://tehnorex.by/zhurnal/claude-nashel-novyj-crispr-kritika-uchyonyh",
+  "title": "Claude нашёл систему, похожую на CRISPR: учёные сомневаются в значимости открытия",
+  "date": "сегодня",
+  "sent_at": "2026-09-26T14:46:48.922Z",
+  "message_id": 2947
+ },
+ "microsoft-ubrala-brend-copilot-plus-noutbuki": {
+  "url": "https://tehnorex.by/zhurnal/microsoft-ubrala-brend-copilot-plus-noutbuki",
+  "title": "Microsoft тихо убрала бренд Copilot+ с новых ноутбуков: требования остались, значков нет",
+  "date": "сегодня",
+  "sent_at": "2026-09-26T14:46:50.480Z",
+  "message_id": 2948
  }
 }

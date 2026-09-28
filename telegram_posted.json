@@ -8432,5 +8432,201 @@
   "date": "вчера",
   "sent_at": "2026-09-27T22:36:32.326Z",
   "message_id": 3037
+ },
+ "byd-seagull-vtoroe-pokolenie-zaryadka-5-minut": {
+  "url": "https://tehnorex.by/zhurnal/byd-seagull-vtoroe-pokolenie-zaryadka-5-minut",
+  "title": "BYD Seagull второго поколения: зарядка на 5 минут и привод на заднюю ось",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:29:50.495Z",
+  "message_id": 3038
+ },
+ "byd-seal-07-vtoroe-pokolenie-5080-mm-lidar": {
+  "url": "https://tehnorex.by/zhurnal/byd-seal-07-vtoroe-pokolenie-5080-mm-lidar",
+  "title": "BYD показала Seal 07 второго поколения: 5080 мм и лидар на крыше",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:29:51.443Z",
+  "message_id": 3039
+ },
+ "xiaomi-18-bazovyj-7200-mach-200-mp-dekabr": {
+  "url": "https://tehnorex.by/zhurnal/xiaomi-18-bazovyj-7200-mach-200-mp-dekabr",
+  "title": "Xiaomi 18: базовая версия получит 7200 мА·ч и камеру на 200 Мп",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:29:52.417Z",
+  "message_id": 3040
+ },
+ "nvidia-open-agent-safety-platform-karantin-agentov": {
+  "url": "https://tehnorex.by/zhurnal/nvidia-open-agent-safety-platform-karantin-agentov",
+  "title": "Nvidia представила платформу, которая изолирует ИИ-агентов за миллисекунды",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:29:53.443Z",
+  "message_id": 3041
+ },
+ "samsung-galaxy-s25-ultra-obzor-posle-mesyaca": {
+  "url": "https://tehnorex.by/zhurnal/samsung-galaxy-s25-ultra-obzor-posle-mesyaca",
+  "title": "Samsung Galaxy S25 Ultra: месяц с флагманом прошлого года — стоит ли брать",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:29:54.432Z",
+  "message_id": 3042
+ },
+ "volkswagen-jetta-m6-pervaya-elektricheskaya-jetta-12-000": {
+  "url": "https://tehnorex.by/zhurnal/volkswagen-jetta-m6-pervaya-elektricheskaya-jetta-12-000",
+  "title": "Представлена первая электрическая Jetta: Volkswagen Jetta M6 за 12 000 долларов",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:29:55.596Z",
+  "message_id": 3043
+ },
+ "luxeed-rx-start-prodazh-kitaj-852-km-4-lidara": {
+  "url": "https://tehnorex.by/zhurnal/luxeed-rx-start-prodazh-kitaj-852-km-4-lidara",
+  "title": "Luxeed RX вышел в Китае: 852 км, четыре лидара и цена от 259 800 юаней",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:29:56.759Z",
+  "message_id": 3044
+ },
+ "ios-27-bag-vidzhet-zamorozki-iphone-18-pro": {
+  "url": "https://tehnorex.by/zhurnal/ios-27-bag-vidzhet-zamorozki-iphone-18-pro",
+  "title": "iOS 27: баг с виджетом роняет домашний экран, а iPhone 18 Pro зависает на Face ID",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:29:57.731Z",
+  "message_id": 3045
+ },
+ "samsung-galaxy-s26-plus-obzor-posle-mesyaca": {
+  "url": "https://tehnorex.by/zhurnal/samsung-galaxy-s26-plus-obzor-posle-mesyaca",
+  "title": "Samsung Galaxy S26+: месяц с большим флагманом без Privacy Display",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:29:58.826Z",
+  "message_id": 3046
+ },
+ "dimensity-9600-pro-pervye-smartfony-vivo-oppo": {
+  "url": "https://tehnorex.by/zhurnal/dimensity-9600-pro-pervye-smartfony-vivo-oppo",
+  "title": "Dimensity 9600 Pro: три флагмана на новом 2-нм чипе и первые характеристики",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:29:59.862Z",
+  "message_id": 3047
+ },
+ "vw-id-tiguan-zamenit-id4-id5-premera-oktyabr": {
+  "url": "https://tehnorex.by/zhurnal/vw-id-tiguan-zamenit-id4-id5-premera-oktyabr",
+  "title": "VW ID. Tiguan заменит ID.4 и ID.5: премьера в начале октября, продажи с 2027 года",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:00.986Z",
+  "message_id": 3048
+ },
+ "nothing-phone-4a-4b-versii-6-128-gb-indiya": {
+  "url": "https://tehnorex.by/zhurnal/nothing-phone-4a-4b-versii-6-128-gb-indiya",
+  "title": "Nothing Phone (4a) и (4b) получили версии 6+128 ГБ: 39 999 и 35 999 рупий",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:02.164Z",
+  "message_id": 3049
+ },
+ "vivo-x-fold6-globalnaya-prem-era-1-oktyabrya-indiya": {
+  "url": "https://tehnorex.by/zhurnal/vivo-x-fold6-globalnaya-prem-era-1-oktyabrya-indiya",
+  "title": "vivo X Fold6 выйдет глобально 1 октября, в Индии — 6 октября",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:03.144Z",
+  "message_id": 3050
+ },
+ "huawei-mate-90-1-oktyabrya-zelenyj-korpus-foto": {
+  "url": "https://tehnorex.by/zhurnal/huawei-mate-90-1-oktyabrya-zelenyj-korpus-foto",
+  "title": "Huawei Mate 90 выйдет 1 октября: живые фото зелёного корпуса и круглого блока камер",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:04.194Z",
+  "message_id": 3051
+ },
+ "samsung-browser-smart-shopping-kupony-po-umolchaniyu": {
+  "url": "https://tehnorex.by/zhurnal/samsung-browser-smart-shopping-kupony-po-umolchaniyu",
+  "title": "Samsung Browser научился искать купоны на ходу и включён по умолчанию",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:05.383Z",
+  "message_id": 3052
+ },
+ "android-18-tizer-grafika-sammit-28-29-oktyabrya": {
+  "url": "https://tehnorex.by/zhurnal/android-18-tizer-grafika-sammit-28-29-oktyabrya",
+  "title": "Google впервые упомянула Android 18: новые графические функции и саммит 28–29 октября",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:06.554Z",
+  "message_id": 3053
+ },
+ "lenovo-googlebook-15-1099-dollarov-4-oktyabrya": {
+  "url": "https://tehnorex.by/zhurnal/lenovo-googlebook-15-1099-dollarov-4-oktyabrya",
+  "title": "Lenovo Googlebook 15 оказался на $200 дешевле обещанного: от $1099,99",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:07.773Z",
+  "message_id": 3054
+ },
+ "bigme-hibreak-dual-3-85-fps-e-ink-629": {
+  "url": "https://tehnorex.by/zhurnal/bigme-hibreak-dual-3-85-fps-e-ink-629",
+  "title": "Bigme HiBreak Dual 3: e-ink смартфон на 85 FPS со съёмным LCD-экраном за $629",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:08.704Z",
+  "message_id": 3055
+ },
+ "honor-magic9-dve-200-mp-arri-telekonverter-4999": {
+  "url": "https://tehnorex.by/zhurnal/honor-magic9-dve-200-mp-arri-telekonverter-4999",
+  "title": "Honor Magic9 вышел: 6,37″, две камеры по 200 Мп ARRI и телеконвертер 200 мм",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:09.999Z",
+  "message_id": 3056
+ },
+ "google-messages-s-finder-samsung-poisk": {
+  "url": "https://tehnorex.by/zhurnal/google-messages-s-finder-samsung-poisk",
+  "title": "Google Messages на Samsung подключат к S Finder: поиск по сообщениям из системы",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:10.953Z",
+  "message_id": 3057
+ },
+ "lenovo-loq-25-10-280-hz-full-hd-ips": {
+  "url": "https://tehnorex.by/zhurnal/lenovo-loq-25-10-280-hz-full-hd-ips",
+  "title": "Lenovo LOQ 25-10: бюджетный игровой монитор с 280 Гц и Full HD",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:53.304Z",
+  "message_id": 3058
+ },
+ "anker-eufy-s4-zvonok-raspoznavanie-lic-300": {
+  "url": "https://tehnorex.by/zhurnal/anker-eufy-s4-zvonok-raspoznavanie-lic-300",
+  "title": "Anker выпустила eufy S4: звонок с распознаванием лиц за $300",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:54.343Z",
+  "message_id": 3059
+ },
+ "nio-geely-30-procent-zamena-batarej-2-mlrd": {
+  "url": "https://tehnorex.by/zhurnal/nio-geely-30-procent-zamena-batarej-2-mlrd",
+  "title": "NIO продала Geely 30% бизнеса по замене батарей: сделка дороже $2 млрд",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:55.387Z",
+  "message_id": 3060
+ },
+ "tenet-a8-start-prodazh-197-ls-8-avtomat": {
+  "url": "https://tehnorex.by/zhurnal/tenet-a8-start-prodazh-197-ls-8-avtomat",
+  "title": "TENET начала продажи седана A8: 2,0 турбо на 197 л.с. и 8-ступенчатый автомат",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:56.448Z",
+  "message_id": 3061
+ },
+ "pixel-11-tormozit-v-igrah-angle-po-umolchaniyu": {
+  "url": "https://tehnorex.by/zhurnal/pixel-11-tormozit-v-igrah-angle-po-umolchaniyu",
+  "title": "Pixel 11 тормозит в играх: виноват новый графический стандарт Google",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:57.366Z",
+  "message_id": 3062
+ },
+ "one-ui-9-galaxy-s26-ssha-changelog": {
+  "url": "https://tehnorex.by/zhurnal/one-ui-9-galaxy-s26-ssha-changelog",
+  "title": "Стабильный One UI 9 добрался до Galaxy S26 в США: появился официальный список изменений",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:30:58.589Z",
+  "message_id": 3063
+ },
+ "redmagic-12-pro-plus-15-oktyabrya-extreme-gen-6": {
+  "url": "https://tehnorex.by/zhurnal/redmagic-12-pro-plus-15-oktyabrya-extreme-gen-6",
+  "title": "RedMagic 12 Pro+ покажут 15 октября: Extreme Gen 6 и ставка на тонкий корпус",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:31:00.589Z",
+  "message_id": 3064
+ },
+ "oneplus-16-12-oktyabrya-extreme-gen-6-185-hz": {
+  "url": "https://tehnorex.by/zhurnal/oneplus-16-12-oktyabrya-extreme-gen-6-185-hz",
+  "title": "OnePlus 16 выйдет 12 октября: Extreme Gen 6, 185 Гц и камера 200 Мп",
+  "date": "сегодня",
+  "sent_at": "2026-09-28T14:31:01.800Z",
+  "message_id": 3065
  }
 }

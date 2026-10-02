@@ -10196,5 +10196,75 @@
   "date": "сегодня",
   "sent_at": "2026-10-02T19:42:38.937Z",
   "message_id": 3289
+ },
+ "android-17-qpr3-beta-1-chto-novogo": {
+  "url": "https://tehnorex.by/zhurnal/android-17-qpr3-beta-1-chto-novogo",
+  "title": "Вышла Android 17 QPR3 Beta 1: что изменилось",
+  "date": "сегодня",
+  "sent_at": "2026-10-02T23:15:27.822Z",
+  "message_id": 3290
+ },
+ "stability-ai-razvorot-k-muzyke": {
+  "url": "https://tehnorex.by/zhurnal/stability-ai-razvorot-k-muzyke",
+  "title": "Stability AI разворачивается к музыке: лейблы вложили $76 млн",
+  "date": "сегодня",
+  "sent_at": "2026-10-02T23:15:28.991Z",
+  "message_id": 3291
+ },
+ "meta-otkryla-kod-muse-dlya-svoih-gadzhetov": {
+  "url": "https://tehnorex.by/zhurnal/meta-otkryla-kod-muse-dlya-svoih-gadzhetov",
+  "title": "Meta открыла код Muse: гаджеты с ИИ можно собрать самим",
+  "date": "сегодня",
+  "sent_at": "2026-10-02T23:15:30.064Z",
+  "message_id": 3292
+ },
+ "android-auto-shkala-signala-vernulas": {
+  "url": "https://tehnorex.by/zhurnal/android-auto-shkala-signala-vernulas",
+  "title": "В Android Auto вернули шкалу сигнала сотовой связи",
+  "date": "сегодня",
+  "sent_at": "2026-10-02T23:15:31.246Z",
+  "message_id": 3293
+ },
+ "samsung-galaxy-s24-plus-obzor-posle-mesyaca": {
+  "url": "https://tehnorex.by/zhurnal/samsung-galaxy-s24-plus-obzor-posle-mesyaca",
+  "title": "Samsung Galaxy S24+: месяц с прошлогодним флагманом — экран и поддержка",
+  "date": "сегодня",
+  "sent_at": "2026-10-02T23:15:32.303Z",
+  "message_id": 3294
+ },
+ "stellantis-katapulta-batarei-patent": {
+  "url": "https://tehnorex.by/zhurnal/stellantis-katapulta-batarei-patent",
+  "title": "Stellantis запатентовала выброс батареи из электромобиля при возгорании",
+  "date": "вчера",
+  "sent_at": "2026-10-02T23:15:33.361Z",
+  "message_id": 3295
+ },
+ "nvidia-dgx-spark-64-gb-dorozhe-starta": {
+  "url": "https://tehnorex.by/zhurnal/nvidia-dgx-spark-64-gb-dorozhe-starta",
+  "title": "Nvidia выпустила DGX Spark на 64 ГБ, и он дороже стартовой версии на 128 ГБ",
+  "date": "вчера",
+  "sent_at": "2026-10-02T23:15:34.389Z",
+  "message_id": 3296
+ },
+ "samsung-exynos-2700-massovoe-proizvodstvo": {
+  "url": "https://tehnorex.by/zhurnal/samsung-exynos-2700-massovoe-proizvodstvo",
+  "title": "Samsung запустила массовое производство Exynos 2700 для Galaxy S27",
+  "date": "вчера",
+  "sent_at": "2026-10-02T23:15:35.335Z",
+  "message_id": 3297
+ },
+ "apple-full-disk-access-ii-agenty": {
+  "url": "https://tehnorex.by/zhurnal/apple-full-disk-access-ii-agenty",
+  "title": "Apple меняет полный доступ к диску в macOS из-за ИИ-агентов",
+  "date": "вчера",
+  "sent_at": "2026-10-02T23:15:36.254Z",
+  "message_id": 3298
+ },
+ "google-pixel-9-pro-obzor-posle-mesyaca": {
+  "url": "https://tehnorex.by/zhurnal/google-pixel-9-pro-obzor-posle-mesyaca",
+  "title": "Google Pixel 9 Pro: месяц с чистым Android — камера, которой хватает",
+  "date": "вчера",
+  "sent_at": "2026-10-02T23:15:37.150Z",
+  "message_id": 3299
  }
 }

@@ -10350,5 +10350,33 @@
   "date": "сегодня",
   "sent_at": "2026-10-03T19:26:02.574Z",
   "message_id": 3311
+ },
+ "toshiba-380-mln-zhestkie-diski-ii": {
+  "url": "https://tehnorex.by/zhurnal/toshiba-380-mln-zhestkie-diski-ii",
+  "title": "Toshiba вложит $380 млн, чтобы удвоить выпуск жёстких дисков для ИИ",
+  "date": "сегодня",
+  "sent_at": "2026-10-03T22:14:22.931Z",
+  "message_id": 3312
+ },
+ "oneplus-12r-obzor-posle-mesyaca": {
+  "url": "https://tehnorex.by/zhurnal/oneplus-12r-obzor-posle-mesyaca",
+  "title": "OnePlus 12R: месяц с зарядкой 100 Вт и ровным экраном",
+  "date": "вчера",
+  "sent_at": "2026-10-03T22:14:23.948Z",
+  "message_id": 3313
+ },
+ "vivo-v40-obzor-posle-mesyaca": {
+  "url": "https://tehnorex.by/zhurnal/vivo-v40-obzor-posle-mesyaca",
+  "title": "vivo V40: месяц с портретной подсветкой и тонким корпусом",
+  "date": "вчера",
+  "sent_at": "2026-10-03T22:14:24.951Z",
+  "message_id": 3314
+ },
+ "honor-200-pro-obzor-posle-mesyaca": {
+  "url": "https://tehnorex.by/zhurnal/honor-200-pro-obzor-posle-mesyaca",
+  "title": "Honor 200 Pro: месяц с портретной камерой и зарядкой 100 Вт",
+  "date": "вчера",
+  "sent_at": "2026-10-03T22:14:25.965Z",
+  "message_id": 3315
  }
 }

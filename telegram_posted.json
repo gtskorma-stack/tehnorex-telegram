@@ -10266,5 +10266,61 @@
   "date": "вчера",
   "sent_at": "2026-10-02T23:15:37.150Z",
   "message_id": 3299
+ },
+ "pixel-svodka-rashoda-batarei": {
+  "url": "https://tehnorex.by/zhurnal/pixel-svodka-rashoda-batarei",
+  "title": "Google добавила в Pixel сводку расхода батареи за день",
+  "date": "сегодня",
+  "sent_at": "2026-10-03T12:40:56.312Z",
+  "message_id": 3300
+ },
+ "asus-zenfone-11-ultra-obzor-posle-mesyaca": {
+  "url": "https://tehnorex.by/zhurnal/asus-zenfone-11-ultra-obzor-posle-mesyaca",
+  "title": "Asus Zenfone 11 Ultra: месяц с большим экраном и чистым софтом",
+  "date": "сегодня",
+  "sent_at": "2026-10-03T12:40:57.326Z",
+  "message_id": 3301
+ },
+ "oppo-find-x10-cena-evropa-1799-evro": {
+  "url": "https://tehnorex.by/zhurnal/oppo-find-x10-cena-evropa-1799-evro",
+  "title": "OPPO Find X10 в Европе: Pro Max могут оценить в 1799 евро",
+  "date": "сегодня",
+  "sent_at": "2026-10-03T12:40:58.206Z",
+  "message_id": 3302
+ },
+ "pixel-10a-podorozhal-na-100-dollarov": {
+  "url": "https://tehnorex.by/zhurnal/pixel-10a-podorozhal-na-100-dollarov",
+  "title": "Google подняла цену Pixel 10a на 100 долларов из-за памяти",
+  "date": "сегодня",
+  "sent_at": "2026-10-03T12:40:59.285Z",
+  "message_id": 3303
+ },
+ "samsung-galaxy-s27-48-millionov-ekranov": {
+  "url": "https://tehnorex.by/zhurnal/samsung-galaxy-s27-48-millionov-ekranov",
+  "title": "Samsung заказала до 48 млн экранов для Galaxy S27 — на 10% больше прошлого раза",
+  "date": "сегодня",
+  "sent_at": "2026-10-03T12:41:00.331Z",
+  "message_id": 3304
+ },
+ "honor-shirokij-skladnoj-yanvar-200-mp": {
+  "url": "https://tehnorex.by/zhurnal/honor-shirokij-skladnoj-yanvar-200-mp",
+  "title": "Honor готовит широкий складной смартфон: экран 5,5 дюйма и камера 200 Мп",
+  "date": "сегодня",
+  "sent_at": "2026-10-03T12:41:01.525Z",
+  "message_id": 3305
+ },
+ "oneplus-16-tri-chastoty-gps-12-oktyabrya": {
+  "url": "https://tehnorex.by/zhurnal/oneplus-16-tri-chastoty-gps-12-oktyabrya",
+  "title": "OnePlus 16 получит трёхчастотный GPS и выйдет 12 октября",
+  "date": "сегодня",
+  "sent_at": "2026-10-03T12:41:02.468Z",
+  "message_id": 3306
+ },
+ "realme-gt-6-obzor-posle-mesyaca": {
+  "url": "https://tehnorex.by/zhurnal/realme-gt-6-obzor-posle-mesyaca",
+  "title": "Realme GT 6: месяц с быстрым зарядником — 120 Вт и яркий экран",
+  "date": "сегодня",
+  "sent_at": "2026-10-03T12:41:03.463Z",
+  "message_id": 3307
  }
 }

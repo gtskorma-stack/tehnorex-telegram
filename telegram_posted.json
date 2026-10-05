@@ -10525,5 +10525,33 @@
   "date": "вчера",
   "sent_at": "2026-10-04T22:32:52.858Z",
   "message_id": 3336
+ },
+ "obzor-redmi-note-15-5g": {
+  "url": "https://tehnorex.by/zhurnal/obzor-redmi-note-15-5g",
+  "title": "Redmi Note 15: где сэкономили, а где нет",
+  "date": "сегодня",
+  "sent_at": "2026-10-05T15:30:05.924Z",
+  "message_id": 3337
+ },
+ "poco-f7-harakteristiki-batareya-7550": {
+  "url": "https://tehnorex.by/zhurnal/poco-f7-harakteristiki-batareya-7550",
+  "title": "POCO F7: большая батарея и никаких чудес",
+  "date": "сегодня",
+  "sent_at": "2026-10-05T15:30:06.689Z",
+  "message_id": 3338
+ },
+ "fairphone-6-obzor": {
+  "url": "https://tehnorex.by/zhurnal/fairphone-6-obzor",
+  "title": "Fairphone 6: телефон, который не жалко разобрать",
+  "date": "сегодня",
+  "sent_at": "2026-10-05T15:30:07.308Z",
+  "message_id": 3339
+ },
+ "oppo-find-x9-ultra-obzor": {
+  "url": "https://tehnorex.by/zhurnal/oppo-find-x9-ultra-obzor",
+  "title": "OPPO Find X9 Ultra: месяц не жил, но карточку разобрал по косточкам",
+  "date": "сегодня",
+  "sent_at": "2026-10-05T15:30:07.882Z",
+  "message_id": 3340
  }
 }

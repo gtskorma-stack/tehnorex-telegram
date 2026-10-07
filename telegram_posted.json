@@ -10777,5 +10777,33 @@
   "date": "сегодня",
   "sent_at": "2026-10-06T20:32:16.253Z",
   "message_id": 3372
+ },
+ "motorola-android-17-razr": {
+  "url": "https://tehnorex.by/zhurnal/motorola-android-17-razr",
+  "title": "Motorola начала обновлять складные Razr до Android 17",
+  "date": "вчера",
+  "sent_at": "2026-10-07T00:00:50.808Z",
+  "message_id": 3373
+ },
+ "samsung-zakryla-62-uyazvimosti": {
+  "url": "https://tehnorex.by/zhurnal/samsung-zakryla-62-uyazvimosti",
+  "title": "Samsung закрыла 62 уязвимости в Galaxy, девять из них критические",
+  "date": "вчера",
+  "sent_at": "2026-10-07T00:00:51.368Z",
+  "message_id": 3374
+ },
+ "iphone-zaryadka-do-80-tri-goda": {
+  "url": "https://tehnorex.by/zhurnal/iphone-zaryadka-do-80-tri-goda",
+  "title": "Три года зарядки iPhone до 80 процентов: батарея потеряла три процента",
+  "date": "вчера",
+  "sent_at": "2026-10-07T00:00:52.123Z",
+  "message_id": 3375
+ },
+ "samsung-galaxy-a55-obzor-posle-mesyaca": {
+  "url": "https://tehnorex.by/zhurnal/samsung-galaxy-a55-obzor-posle-mesyaca",
+  "title": "Samsung Galaxy A55: месяц со средним Samsung и защитой от воды",
+  "date": "вчера",
+  "sent_at": "2026-10-07T00:00:52.687Z",
+  "message_id": 3376
  }
 }

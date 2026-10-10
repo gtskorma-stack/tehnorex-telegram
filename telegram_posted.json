@@ -11183,5 +11183,82 @@
   "date": "сегодня",
   "sent_at": "2026-10-10T18:49:53.304Z",
   "message_id": 3430
+ },
+ "privatnost-ii-agentov-obeshchaniya": {
+  "url": "https://tehnorex.by/zhurnal/privatnost-ii-agentov-obeshchaniya",
+  "title": "Приватность ИИ-агентов: обещания есть, но данные всё равно уходят",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:00:50.296Z",
+  "message_id": 3431
+ },
+ "ii-agenty-v-sms-soobshcheniyah": {
+  "url": "https://tehnorex.by/zhurnal/ii-agenty-v-sms-soobshcheniyah",
+  "title": "ИИ-агенты перебираются в СМС: писать им можно как обычному человеку",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:00:50.916Z",
+  "message_id": 3432
+ },
+ "turciya-zapret-socsetej-dlya-detej": {
+  "url": "https://tehnorex.by/zhurnal/turciya-zapret-socsetej-dlya-detej",
+  "title": "Турция запрещает соцсети детям до 15 лет: проверка возраста через госуслуги",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:00:51.597Z",
+  "message_id": 3433
+ },
+ "es-kitaj-gibridy-import-ogranichenie": {
+  "url": "https://tehnorex.by/zhurnal/es-kitaj-gibridy-import-ogranichenie",
+  "title": "ЕС и Китай договорились сдерживать поток гибридов: поставки выросли на 86%",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:00:52.210Z",
+  "message_id": 3434
+ },
+ "mazda-rossiya-rost-512-procentov": {
+  "url": "https://tehnorex.by/zhurnal/mazda-rossiya-rost-512-procentov",
+  "title": "Продажи Mazda в России выросли в шесть раз — почти всё держится на CX-5",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:00:53.371Z",
+  "message_id": 3435
+ },
+ "toyota-import-rossiya-100-tysyach": {
+  "url": "https://tehnorex.by/zhurnal/toyota-import-rossiya-100-tysyach",
+  "title": "В Россию завезли больше 100 тысяч Toyota: 65% — с правым рулём",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:00:57.051Z",
+  "message_id": 3436
+ },
+ "android-auto-ne-zvonit-na-skladnyh": {
+  "url": "https://tehnorex.by/zhurnal/android-auto-ne-zvonit-na-skladnyh",
+  "title": "Android Auto не звонит со складных телефонов, если они закрыты",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:00:57.675Z",
+  "message_id": 3437
+ },
+ "google-wallet-udostovereniya-shtaty": {
+  "url": "https://tehnorex.by/zhurnal/google-wallet-udostovereniya-shtaty",
+  "title": "Google Wallet принимает водительские права: список штатов США растёт медленно",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:00:58.282Z",
+  "message_id": 3438
+ },
+ "senat-ssha-ii-datacentry-nalogi": {
+  "url": "https://tehnorex.by/zhurnal/senat-ssha-ii-datacentry-nalogi",
+  "title": "Сенат США проверил обещания ИИ-дата-центров: рабочих мест меньше, льгот больше",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:00:58.902Z",
+  "message_id": 3439
+ },
+ "kia-kx1-krossover-v-rossii-cena": {
+  "url": "https://tehnorex.by/zhurnal/kia-kx1-krossover-v-rossii-cena",
+  "title": "Kia KX1 из Китая добрался до России: 1,54 млн рублей и знакомый мотор 1.4",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:00:59.516Z",
+  "message_id": 3440
+ },
+ "ii-laboratorii-gotovyatsya-k-katastrofe": {
+  "url": "https://tehnorex.by/zhurnal/ii-laboratorii-gotovyatsya-k-katastrofe",
+  "title": "ИИ-лаборатории готовятся к катастрофическому сценарию: учения и планы на «день после»",
+  "date": "вчера",
+  "sent_at": "2026-10-10T22:01:03.152Z",
+  "message_id": 3441
  }
 }

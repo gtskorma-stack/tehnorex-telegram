@@ -11260,5 +11260,117 @@
   "date": "вчера",
   "sent_at": "2026-10-10T22:01:03.152Z",
   "message_id": 3441
+ },
+ "galaxy-a04s-obnovleniya-prekrashcheny": {
+  "url": "https://tehnorex.by/zhurnal/galaxy-a04s-obnovleniya-prekrashcheny",
+  "title": "Samsung прекратила обновления Galaxy A04s: бюджетник 2022 года остался без патчей",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:10.421Z",
+  "message_id": 3442
+ },
+ "honor-win-pad-8-4-dyujma-240-gc": {
+  "url": "https://tehnorex.by/zhurnal/honor-win-pad-8-4-dyujma-240-gc",
+  "title": "Honor Win Pad: 8,4 дюйма, 240 Гц и Snapdragon 8 Elite Gen 5 с вентилятором",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:10.990Z",
+  "message_id": 3443
+ },
+ "artemis-ii-udary-meteoroidov-luna": {
+  "url": "https://tehnorex.by/zhurnal/artemis-ii-udary-meteoroidov-luna",
+  "title": "«Артемида II» засняла пять ударов метеороидов по Луне: NASA выложила 800 ГБ данных",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:11.612Z",
+  "message_id": 3444
+ },
+ "hyundai-palisade-vernulsya-v-rossiyu": {
+  "url": "https://tehnorex.by/zhurnal/hyundai-palisade-vernulsya-v-rossiyu",
+  "title": "Hyundai Palisade вернулся в Россию: от 6,95 млн рублей и 281 л.с.",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:12.180Z",
+  "message_id": 3445
+ },
+ "daniya-utechka-parol-123456": {
+  "url": "https://tehnorex.by/zhurnal/daniya-utechka-parol-123456",
+  "title": "Утечка в Дании: пароль администратора был «123456», в сеть попали 8,8 млн номеров",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:12.817Z",
+  "message_id": 3446
+ },
+ "musk-terafab-chipy-ii-psikhoz": {
+  "url": "https://tehnorex.by/zhurnal/musk-terafab-chipy-ii-psikhoz",
+  "title": "Маск строит крупнейшую фабрику чипов, но признаёт, что не знает, как их выпускать",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:16.405Z",
+  "message_id": 3447
+ },
+ "openrouter-ii-agent-prodazhi": {
+  "url": "https://tehnorex.by/zhurnal/openrouter-ii-agent-prodazhi",
+  "title": "OpenRouter отдала отдел продаж ИИ-агенту за 30 долларов в день: конверсия выросла вдвое",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:17.030Z",
+  "message_id": 3448
+ },
+ "anthropic-oss-scanner-uyazvimosti": {
+  "url": "https://tehnorex.by/zhurnal/anthropic-oss-scanner-uyazvimosti",
+  "title": "Anthropic запустила бесплатный ИИ-сканер уязвимостей: за полгода нашли 29 000 проблем",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:17.612Z",
+  "message_id": 3449
+ },
+ "ryzen-ai-max-pro-495-igpu-testy": {
+  "url": "https://tehnorex.by/zhurnal/ryzen-ai-max-pro-495-igpu-testy",
+  "title": "iGPU Radeon 8065S почти догоняет RTX 5060 — но только с высоким лимитом мощности",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:18.192Z",
+  "message_id": 3450
+ },
+ "vrchat-zapret-ii-generacii": {
+  "url": "https://tehnorex.by/zhurnal/vrchat-zapret-ii-generacii",
+  "title": "VRChat запретил ИИ-превью: вводящие в заблуждение картинки больше нельзя",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:18.777Z",
+  "message_id": 3451
+ },
+ "nadella-avarijnyj-tormoz-ii": {
+  "url": "https://tehnorex.by/zhurnal/nadella-avarijnyj-tormoz-ii",
+  "title": "Наделла: любую ИИ-модель стоит считать «скомпрометированной»",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:22.496Z",
+  "message_id": 3452
+ },
+ "nvidia-reflection-ai-peregovory": {
+  "url": "https://tehnorex.by/zhurnal/nvidia-reflection-ai-peregovory",
+  "title": "Nvidia ведёт переговоры о покупке Reflection AI: ставка на открытые модели",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:23.071Z",
+  "message_id": 3453
+ },
+ "apple-demo-zony-iphone-duo": {
+  "url": "https://tehnorex.by/zhurnal/apple-demo-zony-iphone-duo",
+  "title": "Apple выставит больше 150 iPhone Duo в одном магазине: готовятся демо-зоны",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:23.647Z",
+  "message_id": 3454
+ },
+ "samsung-galaxy-s27-podorozhanie": {
+  "url": "https://tehnorex.by/zhurnal/samsung-galaxy-s27-podorozhanie",
+  "title": "Galaxy S27 может подорожать ещё на 175–295 долларов к старту продаж",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:24.249Z",
+  "message_id": 3455
+ },
+ "redmi-a27u-2027-monitor-4k-cena": {
+  "url": "https://tehnorex.by/zhurnal/redmi-a27u-2027-monitor-4k-cena",
+  "title": "Redmi A27U 2027: 27-дюймовый 4K-монитор за 170 долларов",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:24.978Z",
+  "message_id": 3456
+ },
+ "iqoo-16-luchshij-flagman-antutu": {
+  "url": "https://tehnorex.by/zhurnal/iqoo-16-luchshij-flagman-antutu",
+  "title": "iQOO 16 возглавил рейтинг AnTuTu: 8400 мА·ч и 165 Гц за 820 долларов",
+  "date": "сегодня",
+  "sent_at": "2026-10-11T18:04:28.740Z",
+  "message_id": 3457
  }
 }

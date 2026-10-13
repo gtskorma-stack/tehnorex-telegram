@@ -11582,5 +11582,61 @@
   "date": "сегодня",
   "sent_at": "2026-10-12T16:00:07.388Z",
   "message_id": 3487
+ },
+ "oneplus-pauerbank-67w-ekran": {
+  "url": "https://tehnorex.by/zhurnal/oneplus-pauerbank-67w-ekran",
+  "title": "OnePlus выпустила пауэрбанк на 10 000 мА·ч с цветным экраном и зарядкой 67 Вт",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T10:28:21.843Z",
+  "message_id": 3488
+ },
+ "nintendo-kartridzhi-fizicheskie-izdaniya": {
+  "url": "https://tehnorex.by/zhurnal/nintendo-kartridzhi-fizicheskie-izdaniya",
+  "title": "Nintendo не собирается отказываться от картриджей: «мы знаем, как фанаты это любят»",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T10:28:22.500Z",
+  "message_id": 3489
+ },
+ "ddr4-dorozhaet-bystree-ddr5": {
+  "url": "https://tehnorex.by/zhurnal/ddr4-dorozhaet-bystree-ddr5",
+  "title": "DDR4 дорожает быстрее DDR5: кризис памяти может затянуться до 2029 года",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T10:28:23.216Z",
+  "message_id": 3490
+ },
+ "google-fitbit-edge-180-dollarov": {
+  "url": "https://tehnorex.by/zhurnal/google-fitbit-edge-180-dollarov",
+  "title": "Google представила Fitbit Edge за 180 долларов: экран вернулся, батарейку можно менять",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T10:28:23.851Z",
+  "message_id": 3491
+ },
+ "byd-3000-zaryadok-evropa": {
+  "url": "https://tehnorex.by/zhurnal/byd-3000-zaryadok-evropa",
+  "title": "BYD построит в Европе 3000 сверхбыстрых зарядок: 1500 кВт и 10–70% за пять минут",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T10:28:24.519Z",
+  "message_id": 3492
+ },
+ "obzor-asus-rog-zephyrus-duo-gx651": {
+  "url": "https://tehnorex.by/zhurnal/obzor-asus-rog-zephyrus-duo-gx651",
+  "title": "Обзор ASUS ROG Zephyrus Duo GX651: два 16-дюймовых OLED, RTX 5090 и цена как у автомобиля",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T10:28:28.216Z",
+  "message_id": 3493
+ },
+ "postavki-smartfonov-minus-20-procentov": {
+  "url": "https://tehnorex.by/zhurnal/postavki-smartfonov-minus-20-procentov",
+  "title": "Поставки смартфонов рухнули на 20%: память дороже, чем когда-либо",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T10:28:28.862Z",
+  "message_id": 3494
+ },
+ "one-ui-9-oshibka-access-denied": {
+  "url": "https://tehnorex.by/zhurnal/one-ui-9-oshibka-access-denied",
+  "title": "One UI 9 застряла на настройке: Samsung ловит ошибку «Access Denied» на Galaxy S24, S25 и S26",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T10:28:29.488Z",
+  "message_id": 3495
  }
 }

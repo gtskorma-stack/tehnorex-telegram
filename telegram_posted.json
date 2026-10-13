@@ -11638,5 +11638,117 @@
   "date": "сегодня",
   "sent_at": "2026-10-13T10:28:29.488Z",
   "message_id": 3495
+ },
+ "haier-m1-plus-sushilka": {
+  "url": "https://tehnorex.by/zhurnal/haier-m1-plus-sushilka",
+  "title": "Haier представила сушилку M1 Plus с офлайн-голосовым управлением за 689 юаней",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:08.009Z",
+  "message_id": 3496
+ },
+ "kioxia-ssd-20-mln-iops": {
+  "url": "https://tehnorex.by/zhurnal/kioxia-ssd-20-mln-iops",
+  "title": "Kioxia показала SSD для ИИ-стоек: более 20 млн операций чтения в секунду",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:08.629Z",
+  "message_id": 3497
+ },
+ "ifi-up-play-max-ldac-iphone": {
+  "url": "https://tehnorex.by/zhurnal/ifi-up-play-max-ldac-iphone",
+  "title": "iFi выпустила UP Play Max за 89 долларов: LDAC для iPhone через USB-C",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:09.366Z",
+  "message_id": 3498
+ },
+ "zelda-ocarina-of-time-remake-trejler": {
+  "url": "https://tehnorex.by/zhurnal/zelda-ocarina-of-time-remake-trejler",
+  "title": "Nintendo показала новый трейлер ремейка Ocarina of Time: релиз 5 ноября",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:10.042Z",
+  "message_id": 3499
+ },
+ "anthropic-ii-chervi-samorazmnozhenie": {
+  "url": "https://tehnorex.by/zhurnal/anthropic-ii-chervi-samorazmnozhenie",
+  "title": "Anthropic предупредила о ИИ-червях: модели научились размножаться без человека",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:10.746Z",
+  "message_id": 3500
+ },
+ "obzor-vivo-x300-pro": {
+  "url": "https://tehnorex.by/zhurnal/obzor-vivo-x300-pro",
+  "title": "Обзор vivo X300 Pro: 200-мегапиксельный телевик, Dimensity 9500 и цена флагмана",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:14.694Z",
+  "message_id": 3501
+ },
+ "huawei-kirin-2027-testy": {
+  "url": "https://tehnorex.by/zhurnal/huawei-kirin-2027-testy",
+  "title": "Huawei: чипы Kirin для устройств 2027 года уже проходят тесты",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:15.321Z",
+  "message_id": 3502
+ },
+ "coloros-17-grafik-oppo": {
+  "url": "https://tehnorex.by/zhurnal/coloros-17-grafik-oppo",
+  "title": "ColorOS 17 выйдет на почти 60 моделях Oppo: первая волна 29 октября",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:15.938Z",
+  "message_id": 3503
+ },
+ "anker-solix-s5000": {
+  "url": "https://tehnorex.by/zhurnal/anker-solix-s5000",
+  "title": "Anker выпустила зарядную станцию SOLIX S5000 на 5 кВт·ч с запасом на два дня",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:16.548Z",
+  "message_id": 3504
+ },
+ "jbl-cove-novye-rynki": {
+  "url": "https://tehnorex.by/zhurnal/jbl-cove-novye-rynki",
+  "title": "JBL вывела колонки Cove на новые рынки: мультирум в стиле Sonos от 199,99 фунта",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:17.190Z",
+  "message_id": 3505
+ },
+ "ii-vosstanovil-kod-modern-warfare-2": {
+  "url": "https://tehnorex.by/zhurnal/ii-vosstanovil-kod-modern-warfare-2",
+  "title": "ИИ восстановил 99% кода Call of Duty: Modern Warfare 2 — ушло до 700 млрд токенов",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:20.833Z",
+  "message_id": 3506
+ },
+ "sandisk-nas-600-800-ssd": {
+  "url": "https://tehnorex.by/zhurnal/sandisk-nas-600-800-ssd",
+  "title": "SanDisk выпустила SSD для NAS: до 14,9 ГБ/с и ресурс записи 14 ПБ",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:21.450Z",
+  "message_id": 3507
+ },
+ "intel-qualcomm-podnyali-ceny-processory": {
+  "url": "https://tehnorex.by/zhurnal/intel-qualcomm-podnyali-ceny-processory",
+  "title": "Intel подняла цены на процессоры на 20%, Qualcomm — на 10%, AMD на очереди",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:22.080Z",
+  "message_id": 3508
+ },
+ "obzor-samsung-galaxy-s26-ultra": {
+  "url": "https://tehnorex.by/zhurnal/obzor-samsung-galaxy-s26-ultra",
+  "title": "Обзор Samsung Galaxy S26 Ultra: приватный экран, 200 Мп и цена, которую надо объяснять",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:22.723Z",
+  "message_id": 3509
+ },
+ "oneplus-16-prodazhi-pervyj-den": {
+  "url": "https://tehnorex.by/zhurnal/oneplus-16-prodazhi-pervyj-den",
+  "title": "OnePlus 16 продали больше 70 000 штук в первый день: лучший старт среди флагманов 2026 года",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:23.348Z",
+  "message_id": 3510
+ },
+ "huawei-vozglavila-rynok-kitaya": {
+  "url": "https://tehnorex.by/zhurnal/huawei-vozglavila-rynok-kitaya",
+  "title": "Huawei возглавила рынок смартфонов Китая: поставки растут, рынок падает на 15%",
+  "date": "сегодня",
+  "sent_at": "2026-10-13T17:42:26.994Z",
+  "message_id": 3511
  }
 }

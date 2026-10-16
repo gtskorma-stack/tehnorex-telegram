@@ -12289,5 +12289,61 @@
   "date": "сегодня",
   "sent_at": "2026-10-16T11:36:14.222Z",
   "message_id": 3588
+ },
+ "aurus-senat": {
+  "url": "https://tehnorex.by/zhurnal/aurus-senat",
+  "title": "Aurus Senat: обновлённый седан принимают заказы от 48,5 млн рублей",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T15:29:43.445Z",
+  "message_id": 3589
+ },
+ "steam-dostizheniya": {
+  "url": "https://tehnorex.by/zhurnal/steam-dostizheniya",
+  "title": "Steam переделает достижения: отдельные наборы для DLC и удобное сравнение с друзьями",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T15:29:44.054Z",
+  "message_id": 3590
+ },
+ "anker-laptop-charger": {
+  "url": "https://tehnorex.by/zhurnal/anker-laptop-charger",
+  "title": "Anker Laptop Charger Pro: зарядка 100 Вт с дисплеем продлевает жизнь батареи ноутбука",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T15:29:44.682Z",
+  "message_id": 3591
+ },
+ "minisforum-s5": {
+  "url": "https://tehnorex.by/zhurnal/minisforum-s5",
+  "title": "Minisforum S5: безвентиляторный NAS с 10GbE и пятью слотами M.2 поступил в продажу",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T15:29:45.272Z",
+  "message_id": 3592
+ },
+ "micron-eim": {
+  "url": "https://tehnorex.by/zhurnal/micron-eim",
+  "title": "Micron EIM: роботам понадобится 200 ГБ ОЗУ и 4 ТБ — выпуск обещают в 2028 году",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T15:29:45.868Z",
+  "message_id": 3593
+ },
+ "microsoft-ai": {
+  "url": "https://tehnorex.by/zhurnal/microsoft-ai",
+  "title": "Microsoft заявила о модели мощнее GPT-5.6 при вчетверо меньших затратах на обучение",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T15:29:49.495Z",
+  "message_id": 3594
+ },
+ "tehnologicheskij-sbor": {
+  "url": "https://tehnorex.by/zhurnal/tehnologicheskij-sbor",
+  "title": "Технологический сбор с 1 декабря: смартфоны подорожают, но не критично",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T15:29:50.084Z",
+  "message_id": 3595
+ },
+ "redmi-turbo-6-imei": {
+  "url": "https://tehnorex.by/zhurnal/redmi-turbo-6-imei",
+  "title": "Redmi Turbo 6 и Turbo 6 Max засветились в базе IMEI: что известно о новинках",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T15:29:50.690Z",
+  "message_id": 3596
  }
 }

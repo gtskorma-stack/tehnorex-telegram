@@ -12156,5 +12156,138 @@
   "date": "сегодня",
   "sent_at": "2026-10-15T14:27:17.361Z",
   "message_id": 3569
+ },
+ "bee-frontier-eclipse": {
+  "url": "https://tehnorex.by/zhurnal/bee-frontier-eclipse",
+  "title": "Amazon выпустила Bee Frontier и Bee Eclipse: носимый ИИ-диктофон и модуль для смартфона",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:35:52.894Z",
+  "message_id": 3570
+ },
+ "ledger-atom-android": {
+  "url": "https://tehnorex.by/zhurnal/ledger-atom-android",
+  "title": "Ledger Atom: аппаратный кошелёк в виде Android-устройства без телефона",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:35:53.549Z",
+  "message_id": 3571
+ },
+ "rynok-pamyati-akcii": {
+  "url": "https://tehnorex.by/zhurnal/rynok-pamyati-akcii",
+  "title": "Рынок памяти трясёт: акции Samsung и SK Hynix упали из-за страха перепроизводства",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:35:54.179Z",
+  "message_id": 3572
+ },
+ "control-resonant-rekord": {
+  "url": "https://tehnorex.by/zhurnal/control-resonant-rekord",
+  "title": "Control Resonant установила рекорд Remedy: миллион продаж быстрее Alan Wake 2",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:35:54.851Z",
+  "message_id": 3573
+ },
+ "casio-g-shock-luxe-black": {
+  "url": "https://tehnorex.by/zhurnal/casio-g-shock-luxe-black",
+  "title": "Casio готовит Luxe Black G-Shock: солнечная батарея и Bluetooth за $280",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:35:55.563Z",
+  "message_id": 3574
+ },
+ "googlebook-pervye-testy": {
+  "url": "https://tehnorex.by/zhurnal/googlebook-pervye-testy",
+  "title": "Googlebook: первые тесты ноутбуков с новой ОС Google показали сырую систему за $899",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:35:59.348Z",
+  "message_id": 3575
+ },
+ "xperia-10-vi-android-17": {
+  "url": "https://tehnorex.by/zhurnal/xperia-10-vi-android-17",
+  "title": "Sony отменила Android 17 для Xperia 10 VI: обещанные три обновления ничего не гарантируют",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:00.032Z",
+  "message_id": 3576
+ },
+ "vivo-x500-pro-tseny": {
+  "url": "https://tehnorex.by/zhurnal/vivo-x500-pro-tseny",
+  "title": "Vivo X500 Pro подорожает в Европе: утечка раскрыла цены, память и цвета",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:00.790Z",
+  "message_id": 3577
+ },
+ "linux-na-ps5-dzhejlbrejk": {
+  "url": "https://tehnorex.by/zhurnal/linux-na-ps5-dzhejlbrejk",
+  "title": "Linux запустили на PS5: джейлбрейк превращает консоль в игровой ПК",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:01.705Z",
+  "message_id": 3578
+ },
+ "gpt-live-1-1-golos": {
+  "url": "https://tehnorex.by/zhurnal/gpt-live-1-1-golos",
+  "title": "OpenAI выпустила GPT-Live-1.1: голос стал естественнее, но правила модель соблюдает хуже",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:02.358Z",
+  "message_id": 3579
+ },
+ "formlabs-studio-1-printer": {
+  "url": "https://tehnorex.by/zhurnal/formlabs-studio-1-printer",
+  "title": "Formlabs Studio 1: смоляной 3D-принтер за $699 приходит в домашние мастерские",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:06.008Z",
+  "message_id": 3580
+ },
+ "xreal-1-pro-plus-ochki": {
+  "url": "https://tehnorex.by/zhurnal/xreal-1-pro-plus-ochki",
+  "title": "Xreal 1 Pro+: AR-очки за $599 с дисплеем на 1200 нит и улучшенной посадкой",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:06.675Z",
+  "message_id": 3581
+ },
+ "cuktech-cp26-15000-mach": {
+  "url": "https://tehnorex.by/zhurnal/cuktech-cp26-15000-mach",
+  "title": "Cuktech CP26: пауэрбанк на 15 000 мА·ч с кабелем и зарядкой 67 Вт за $20",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:07.288Z",
+  "message_id": 3582
+ },
+ "tesla-roadster-raketnye-uskoriteli": {
+  "url": "https://tehnorex.by/zhurnal/tesla-roadster-raketnye-uskoriteli",
+  "title": "Tesla показала Roadster с ракетными ускорителями SpaceX: 0–97 км/ч за 0,81 секунды",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:07.953Z",
+  "message_id": 3583
+ },
+ "galaxy-s27-ultra-exynos-2700": {
+  "url": "https://tehnorex.by/zhurnal/galaxy-s27-ultra-exynos-2700",
+  "title": "Galaxy S27 Ultra может перейти на Exynos 2700: Snapdragon 8 Elite Extreme Gen 6 перегревается",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:08.677Z",
+  "message_id": 3584
+ },
+ "redmi-k100-batareya-10000": {
+  "url": "https://tehnorex.by/zhurnal/redmi-k100-batareya-10000",
+  "title": "Redmi K100: батарея 10 000 мА·ч, экран 185 Гц и динамики Bose — предзаказы открыты",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:12.324Z",
+  "message_id": 3585
+ },
+ "kompyuternye-kluby-rossiya-2026": {
+  "url": "https://tehnorex.by/zhurnal/kompyuternye-kluby-rossiya-2026",
+  "title": "Компьютерные клубы в России: посещаемость выросла, средний чек — 1200 рублей",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:12.943Z",
+  "message_id": 3586
+ },
+ "vyruchka-anthropic-16-8-mlrd": {
+  "url": "https://tehnorex.by/zhurnal/vyruchka-anthropic-16-8-mlrd",
+  "title": "Выручка Anthropic выросла до $16,8 млрд за квартал: рост 46% перед IPO",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:13.581Z",
+  "message_id": 3587
+ },
+ "league-classic-rotaciya": {
+  "url": "https://tehnorex.by/zhurnal/league-classic-rotaciya",
+  "title": "League Classic станет ротацией: Riot объяснила, что будет с режимом",
+  "date": "сегодня",
+  "sent_at": "2026-10-16T11:36:14.222Z",
+  "message_id": 3588
  }
 }

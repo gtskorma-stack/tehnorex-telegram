@@ -12436,5 +12436,40 @@
   "date": "сегодня",
   "sent_at": "2026-10-17T18:55:49.316Z",
   "message_id": 3609
+ },
+ "anthropic-komanda-izmeneniya": {
+  "url": "https://tehnorex.by/zhurnal/anthropic-komanda-izmeneniya",
+  "title": "Anthropic: меньше джуниоров, больше встреч и нетехнических сотрудников",
+  "date": "вчера",
+  "sent_at": "2026-10-17T21:07:04.323Z",
+  "message_id": 3610
+ },
+ "asus-arc-pro-b70": {
+  "url": "https://tehnorex.by/zhurnal/asus-arc-pro-b70",
+  "title": "ASUS выпустила первую видеокарту на Intel Arc: Pro B70 с 32 ГБ GDDR6",
+  "date": "вчера",
+  "sent_at": "2026-10-17T21:07:04.894Z",
+  "message_id": 3611
+ },
+ "konami-ii-igry": {
+  "url": "https://tehnorex.by/zhurnal/konami-ii-igry",
+  "title": "Konami: ИИ не изменит игровой рынок радикально, создатели важнее технологий",
+  "date": "вчера",
+  "sent_at": "2026-10-17T21:07:05.492Z",
+  "message_id": 3612
+ },
+ "magicos-11-rossiya": {
+  "url": "https://tehnorex.by/zhurnal/magicos-11-rossiya",
+  "title": "HONOR MagicOS 11: 56 глобальных смартфонов получат обновление с октября по март",
+  "date": "вчера",
+  "sent_at": "2026-10-17T21:07:06.081Z",
+  "message_id": 3613
+ },
+ "motorola-moto-g47-power": {
+  "url": "https://tehnorex.by/zhurnal/motorola-moto-g47-power",
+  "title": "Motorola Moto G47 Power: батарея на 6900–7000 мА·ч и базовая версия 4/128 ГБ",
+  "date": "вчера",
+  "sent_at": "2026-10-17T21:07:06.676Z",
+  "message_id": 3614
  }
 }

@@ -12667,5 +12667,19 @@
   "date": "сегодня",
   "sent_at": "2026-10-18T23:06:37.782Z",
   "message_id": 3642
+ },
+ "vivo-v80-obzor": {
+  "url": "https://tehnorex.by/zhurnal/vivo-v80-obzor",
+  "title": "vivo V80: обзор смартфона с перископом и батареей 7200 мА·ч",
+  "date": "сегодня",
+  "sent_at": "2026-10-19T01:07:26.337Z",
+  "message_id": 3643
+ },
+ "oneplus-16-obzor": {
+  "url": "https://tehnorex.by/zhurnal/oneplus-16-obzor",
+  "title": "OnePlus 16: обзор флагмана с батареей 9000 мА·ч",
+  "date": "сегодня",
+  "sent_at": "2026-10-19T01:07:26.884Z",
+  "message_id": 3644
  }
 }

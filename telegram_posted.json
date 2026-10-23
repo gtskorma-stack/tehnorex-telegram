@@ -13738,5 +13738,117 @@
   "date": "вчера",
   "sent_at": "2026-10-22T22:21:45.187Z",
   "message_id": 3795
+ },
+ "baseus-hurricane-3": {
+  "url": "https://tehnorex.by/zhurnal/baseus-hurricane-3",
+  "title": "Baseus Hurricane 3: зарядка на 160 Вт с вентилятором и экраном",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:28.610Z",
+  "message_id": 3796
+ },
+ "tesla-model-y-robotaxi": {
+  "url": "https://tehnorex.by/zhurnal/tesla-model-y-robotaxi",
+  "title": "Tesla отдаст Model Y в роботакси: FSD V15 и заработок владельцам",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:29.277Z",
+  "message_id": 3797
+ },
+ "1password-agents": {
+  "url": "https://tehnorex.by/zhurnal/1password-agents",
+  "title": "1Password for Agents: ИИ-ассистенты войдут в аккаунты без пароля",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:29.938Z",
+  "message_id": 3798
+ },
+ "epic-ai-megajam": {
+  "url": "https://tehnorex.by/zhurnal/epic-ai-megajam",
+  "title": "Epic заплатит $50 000 за игры, сделанные ИИ",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:30.583Z",
+  "message_id": 3799
+ },
+ "harmonyos-7-pamyat": {
+  "url": "https://tehnorex.by/zhurnal/harmonyos-7-pamyat",
+  "title": "HarmonyOS 7 освободит до 3 ГБ ОЗУ на старых Huawei",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:31.233Z",
+  "message_id": 3800
+ },
+ "iqoo-neo-12-foto": {
+  "url": "https://tehnorex.by/zhurnal/iqoo-neo-12-foto",
+  "title": "iQOO Neo 12: 9000 мА·ч, 100 Вт и камера Sony IMX921",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:34.992Z",
+  "message_id": 3801
+ },
+ "linux-ksmbd-uyazvimosti": {
+  "url": "https://tehnorex.by/zhurnal/linux-ksmbd-uyazvimosti",
+  "title": "Linux-ядро: две дыры KSMBD с оценкой 9.0 раскрыли раньше патча",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:35.729Z",
+  "message_id": 3802
+ },
+ "switch-2-dzhejlbrejk": {
+  "url": "https://tehnorex.by/zhurnal/switch-2-dzhejlbrejk",
+  "title": "Nintendo Switch 2 взломали: первый software-only джейлбрейк",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:36.461Z",
+  "message_id": 3803
+ },
+ "drony-datacentry-deficit": {
+  "url": "https://tehnorex.by/zhurnal/drony-datacentry-deficit",
+  "title": "Атаки дронов на дата-центры: потеряно 115 МВт мощностей",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:37.135Z",
+  "message_id": 3804
+ },
+ "chery-volt-dragon": {
+  "url": "https://tehnorex.by/zhurnal/chery-volt-dragon",
+  "title": "Почему Chery довела мощность зарядки до 1,44 МВт",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:37.822Z",
+  "message_id": 3805
+ },
+ "windows-11-copilot-yarlyki": {
+  "url": "https://tehnorex.by/zhurnal/windows-11-copilot-yarlyki",
+  "title": "Microsoft убрала 8 ярлыков Copilot из проводника Windows 11",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:41.493Z",
+  "message_id": 3806
+ },
+ "php2shell-uyazvimost": {
+  "url": "https://tehnorex.by/zhurnal/php2shell-uyazvimost",
+  "title": "PHP2Shell: две дыры в PHP дают удалённое выполнение кода",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:42.169Z",
+  "message_id": 3807
+ },
+ "western-digital-vyruchka": {
+  "url": "https://tehnorex.by/zhurnal/western-digital-vyruchka",
+  "title": "Western Digital нарастила выручку на 55% и ждёт дорогих накопителей",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:42.904Z",
+  "message_id": 3808
+ },
+ "half-life-3-hlx": {
+  "url": "https://tehnorex.by/zhurnal/half-life-3-hlx",
+  "title": "Valve случайно подтвердила Half-Life 3: упомянут проект HLX",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:43.585Z",
+  "message_id": 3809
+ },
+ "huawei-pura-90-plus": {
+  "url": "https://tehnorex.by/zhurnal/huawei-pura-90-plus",
+  "title": "Huawei Pura 90 Plus: предзаказы и Kirin 9025",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:44.375Z",
+  "message_id": 3810
+ },
+ "galaxy-z-fold-8-prodazhi": {
+  "url": "https://tehnorex.by/zhurnal/galaxy-z-fold-8-prodazhi",
+  "title": "Galaxy Z Fold 8 стал хитом: Samsung говорит о росте продаж",
+  "date": "сегодня",
+  "sent_at": "2026-10-23T10:14:48.138Z",
+  "message_id": 3811
  }
 }

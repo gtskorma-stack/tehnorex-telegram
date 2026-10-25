@@ -14263,5 +14263,54 @@
   "date": "сегодня",
   "sent_at": "2026-10-25T18:11:54.446Z",
   "message_id": 3870
+ },
+ "bmw-opros-elektromobili": {
+  "url": "https://tehnorex.by/zhurnal/bmw-opros-elektromobili",
+  "title": "BMW: водители проезжают 121 км, но требуют 483",
+  "date": "сегодня",
+  "sent_at": "2026-10-25T20:46:40.297Z",
+  "message_id": 3871
+ },
+ "elektromobili-nadezhnee-benzina": {
+  "url": "https://tehnorex.by/zhurnal/elektromobili-nadezhnee-benzina",
+  "title": "Электромобили надёжнее бензиновых: данные техосмотров",
+  "date": "сегодня",
+  "sent_at": "2026-10-25T20:46:41.002Z",
+  "message_id": 3872
+ },
+ "suzuki-e-sky": {
+  "url": "https://tehnorex.by/zhurnal/suzuki-e-sky",
+  "title": "Suzuki e SKY: первый серийный электромобиль за $10 000",
+  "date": "сегодня",
+  "sent_at": "2026-10-25T20:46:41.666Z",
+  "message_id": 3873
+ },
+ "effekt-mandely-iphone": {
+  "url": "https://tehnorex.by/zhurnal/effekt-mandely-iphone",
+  "title": "iPhone не был первым смартфоном: разбор эффекта Манделы",
+  "date": "сегодня",
+  "sent_at": "2026-10-25T20:46:42.334Z",
+  "message_id": 3874
+ },
+ "iphone-duo-krashtest-jerryrig": {
+  "url": "https://tehnorex.by/zhurnal/iphone-duo-krashtest-jerryrig",
+  "title": "iPhone Duo не прошёл краш-тест JerryRigEverything",
+  "date": "сегодня",
+  "sent_at": "2026-10-25T20:46:43.045Z",
+  "message_id": 3875
+ },
+ "audio-technica-ath-awx7000": {
+  "url": "https://tehnorex.by/zhurnal/audio-technica-ath-awx7000",
+  "title": "Audio-Technica ATH-AWX7000: дерево хиноки за $3799",
+  "date": "сегодня",
+  "sent_at": "2026-10-25T20:46:46.685Z",
+  "message_id": 3876
+ },
+ "galaxy-s27-batarei-tuv": {
+  "url": "https://tehnorex.by/zhurnal/galaxy-s27-batarei-tuv",
+  "title": "Galaxy S27 Ultra получит батарею на 5700 мА·ч",
+  "date": "сегодня",
+  "sent_at": "2026-10-25T20:46:47.344Z",
+  "message_id": 3877
  }
 }

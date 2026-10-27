@@ -14431,5 +14431,96 @@
   "date": "вчера",
   "sent_at": "2026-10-26T21:41:29.391Z",
   "message_id": 3894
+ },
+ "lenovo-thinkbook-14-x2-plus": {
+  "url": "https://tehnorex.by/zhurnal/lenovo-thinkbook-14-x2-plus",
+  "title": "Lenovo ThinkBook 14 на Snapdragon X2 Plus: 27 часов",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:11.299Z",
+  "message_id": 3895
+ },
+ "rtx-5090-zakazy": {
+  "url": "https://tehnorex.by/zhurnal/rtx-5090-zakazy",
+  "title": "Nvidia перестала принимать заказы на RTX 5090",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:12.044Z",
+  "message_id": 3896
+ },
+ "openai-gipoteza-sogge": {
+  "url": "https://tehnorex.by/zhurnal/openai-gipoteza-sogge",
+  "title": "OpenAI: ИИ доказал гипотезу Согге",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:12.713Z",
+  "message_id": 3897
+ },
+ "apple-imac-macbook-m6": {
+  "url": "https://tehnorex.by/zhurnal/apple-imac-macbook-m6",
+  "title": "Apple выпустила iMac и MacBook Pro на чипе M6",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:13.437Z",
+  "message_id": 3898
+ },
+ "silent-hill-remake-2027": {
+  "url": "https://tehnorex.by/zhurnal/silent-hill-remake-2027",
+  "title": "Silent Hill Remake выйдет в 2027 году",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:16.271Z",
+  "message_id": 3899
+ },
+ "vivo-premium-kitaj": {
+  "url": "https://tehnorex.by/zhurnal/vivo-premium-kitaj",
+  "title": "Vivo обошла всех в премиуме Android в Китае",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:16.980Z",
+  "message_id": 3900
+ },
+ "raptor-4-300-tonn": {
+  "url": "https://tehnorex.by/zhurnal/raptor-4-300-tonn",
+  "title": "Raptor 4: 300 тонн тяги при той же массе",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:17.690Z",
+  "message_id": 3901
+ },
+ "iphone-18e-harakteristiki": {
+  "url": "https://tehnorex.by/zhurnal/iphone-18e-harakteristiki",
+  "title": "iPhone 18e: 6,1 дюйма, 60 Гц и чип A20",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:18.434Z",
+  "message_id": 3902
+ },
+ "apple-otvetila-na-problemu-iphone-duo": {
+  "url": "https://tehnorex.by/zhurnal/apple-otvetila-na-problemu-iphone-duo",
+  "title": "Apple признала проблему с дисплеем iPhone Duo",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:19.282Z",
+  "message_id": 3903
+ },
+ "moto-g47-power": {
+  "url": "https://tehnorex.by/zhurnal/moto-g47-power",
+  "title": "Moto G47 Power: 7000 мА·ч и камера 108 Мп",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:23.067Z",
+  "message_id": 3904
+ },
+ "galaxy-buds-on": {
+  "url": "https://tehnorex.by/zhurnal/galaxy-buds-on",
+  "title": "Galaxy Buds On: первые открытые наушники Samsung",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:23.763Z",
+  "message_id": 3905
+ },
+ "redmi-book-2027": {
+  "url": "https://tehnorex.by/zhurnal/redmi-book-2027",
+  "title": "REDMI Book 2027: Wildcat Lake и батарея 72 Вт·ч",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:24.456Z",
+  "message_id": 3906
+ },
+ "redmi-k100-zapusk": {
+  "url": "https://tehnorex.by/zhurnal/redmi-k100-zapusk",
+  "title": "Redmi K100 вышел: 10 000 мА·ч и Snapdragon 8 Elite",
+  "date": "сегодня",
+  "sent_at": "2026-10-27T16:09:25.280Z",
+  "message_id": 3907
  }
 }

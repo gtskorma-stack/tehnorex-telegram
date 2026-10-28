@@ -14627,5 +14627,159 @@
   "date": "сегодня",
   "sent_at": "2026-10-28T16:33:26.525Z",
   "message_id": 3922
+ },
+ "audi-zavod-ssha": {
+  "url": "https://tehnorex.by/zhurnal/audi-zavod-ssha",
+  "title": "Audi построит завод в США за $4 млрд",
+  "date": "сегодня",
+  "sent_at": "2026-10-28T21:15:53.475Z",
+  "message_id": 3923
+ },
+ "mercedes-elektroturbina": {
+  "url": "https://tehnorex.by/zhurnal/mercedes-elektroturbina",
+  "title": "Mercedes поставил электротурбину из Формулы-1",
+  "date": "сегодня",
+  "sent_at": "2026-10-28T21:15:54.128Z",
+  "message_id": 3924
+ },
+ "cronos-lazarus": {
+  "url": "https://tehnorex.by/zhurnal/cronos-lazarus",
+  "title": "Cronos: The New Dawn получит дополнение Lasarus",
+  "date": "сегодня",
+  "sent_at": "2026-10-28T21:15:54.742Z",
+  "message_id": 3925
+ },
+ "genie-4-virtualnye-miry": {
+  "url": "https://tehnorex.by/zhurnal/genie-4-virtualnye-miry",
+  "title": "Genie 4: Google научила ИИ создавать живые миры",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:15:55.404Z",
+  "message_id": 3926
+ },
+ "gemini-4-carbon-model": {
+  "url": "https://tehnorex.by/zhurnal/gemini-4-carbon-model",
+  "title": "Gemini 4 Carbon: Google выпустила модель для взлома",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:15:56.023Z",
+  "message_id": 3927
+ },
+ "rings-of-power-3": {
+  "url": "https://tehnorex.by/zhurnal/rings-of-power-3",
+  "title": "Rings of Power: критики единодушны насчёт 3 сезона",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:15:59.621Z",
+  "message_id": 3928
+ },
+ "tesla-semi-pozhar": {
+  "url": "https://tehnorex.by/zhurnal/tesla-semi-pozhar",
+  "title": "Tesla Semi сгорел на трассе в Калифорнии",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:00.231Z",
+  "message_id": 3929
+ },
+ "jennifer-lawrence-hunger-games": {
+  "url": "https://tehnorex.by/zhurnal/jennifer-lawrence-hunger-games",
+  "title": "Дженнифер Лоуренс вернётся к роли Китнисс",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:00.854Z",
+  "message_id": 3930
+ },
+ "volkswagen-otzyv-85000": {
+  "url": "https://tehnorex.by/zhurnal/volkswagen-otzyv-85000",
+  "title": "Volkswagen отзывает 85 000 электромобилей",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:01.431Z",
+  "message_id": 3931
+ },
+ "ubiquiti-unifi-poe-800": {
+  "url": "https://tehnorex.by/zhurnal/ubiquiti-unifi-poe-800",
+  "title": "Ubiquiti UniFi: PoE на 800 метров одним кабелем",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:02.081Z",
+  "message_id": 3932
+ },
+ "catl-tverdotelnye-2027": {
+  "url": "https://tehnorex.by/zhurnal/catl-tverdotelnye-2027",
+  "title": "CATL: твёрдотельные батареи на 20 А·ч к 2027",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:05.730Z",
+  "message_id": 3933
+ },
+ "gta-6-210-gb": {
+  "url": "https://tehnorex.by/zhurnal/gta-6-210-gb",
+  "title": "GTA VI займёт 210 ГБ — предзагрузка с 12 ноября",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:06.358Z",
+  "message_id": 3934
+ },
+ "wolf-among-us-remaster": {
+  "url": "https://tehnorex.by/zhurnal/wolf-among-us-remaster",
+  "title": "The Wolf Among Us: ремастер оценили выше оригинала",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:06.966Z",
+  "message_id": 3935
+ },
+ "amazon-alexa-photo-frame": {
+  "url": "https://tehnorex.by/zhurnal/amazon-alexa-photo-frame",
+  "title": "Amazon выпустила Photo Frame и Echo Time",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:07.584Z",
+  "message_id": 3936
+ },
+ "huawei-pura-90-plus-prezentaciya": {
+  "url": "https://tehnorex.by/zhurnal/huawei-pura-90-plus-prezentaciya",
+  "title": "Huawei Pura 90 Plus: флагман на Kirin 9025",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:08.201Z",
+  "message_id": 3937
+ },
+ "xreal-aura": {
+  "url": "https://tehnorex.by/zhurnal/xreal-aura",
+  "title": "Xreal Aura: очки на Android XR за $649",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:11.807Z",
+  "message_id": 3938
+ },
+ "ps-plus-noyabr-2026": {
+  "url": "https://tehnorex.by/zhurnal/ps-plus-noyabr-2026",
+  "title": "PS Plus: в ноябре Dead Island 2 и две другие игры",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:12.415Z",
+  "message_id": 3939
+ },
+ "apple-sensornyj-macbook-pro": {
+  "url": "https://tehnorex.by/zhurnal/apple-sensornyj-macbook-pro",
+  "title": "Apple выпустила MacBook Pro с сенсорным экраном",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:13.078Z",
+  "message_id": 3940
+ },
+ "kakoy-smartfon-do-1000-rubley": {
+  "url": "https://tehnorex.by/zhurnal/kakoy-smartfon-do-1000-rubley",
+  "title": "Какой смартфон купить до 1000 рублей в 2026 году",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:13.796Z",
+  "message_id": 3941
+ },
+ "amazon-echo-show-16": {
+  "url": "https://tehnorex.by/zhurnal/amazon-echo-show-16",
+  "title": "Amazon Echo Show 16: дисплей за $500 с Fire TV",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:14.426Z",
+  "message_id": 3942
+ },
+ "cxmt-hbm3e": {
+  "url": "https://tehnorex.by/zhurnal/cxmt-hbm3e",
+  "title": "CXMT запускает HBM3E: китайская память для ИИ",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:54.481Z",
+  "message_id": 3943
+ },
+ "playstation-prism": {
+  "url": "https://tehnorex.by/zhurnal/playstation-prism",
+  "title": "PlayStation Prism: прозрачные DualSense и крышки",
+  "date": "вчера",
+  "sent_at": "2026-10-28T21:16:55.308Z",
+  "message_id": 3944
  }
 }

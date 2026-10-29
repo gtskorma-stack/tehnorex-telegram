@@ -14781,5 +14781,26 @@
   "date": "вчера",
   "sent_at": "2026-10-28T21:16:55.308Z",
   "message_id": 3944
+ },
+ "huawei-starlight-telefon": {
+  "url": "https://tehnorex.by/zhurnal/huawei-starlight-telefon",
+  "title": "Huawei Starlight: первый телефон с широким экраном",
+  "date": "сегодня",
+  "sent_at": "2026-10-29T13:44:47.538Z",
+  "message_id": 3945
+ },
+ "honor-x8e-4g": {
+  "url": "https://tehnorex.by/zhurnal/honor-x8e-4g",
+  "title": "Honor X8e: 7700 мА·ч и камера 108 Мп",
+  "date": "сегодня",
+  "sent_at": "2026-10-29T13:44:48.263Z",
+  "message_id": 3946
+ },
+ "oneplus-ace-7": {
+  "url": "https://tehnorex.by/zhurnal/oneplus-ace-7",
+  "title": "OnePlus Ace 7 и Ace 7 Pro: 9000 мА·ч и вентилятор",
+  "date": "сегодня",
+  "sent_at": "2026-10-29T13:44:48.970Z",
+  "message_id": 3947
  }
 }

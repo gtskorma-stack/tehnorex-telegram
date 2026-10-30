@@ -15082,5 +15082,26 @@
   "date": "сегодня",
   "sent_at": "2026-10-30T19:58:58.760Z",
   "message_id": 3987
+ },
+ "rivian-edv-700": {
+  "url": "https://tehnorex.by/zhurnal/rivian-edv-700",
+  "title": "Rivian EDV 700: полный привод и 572 км хода",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T23:27:00.855Z",
+  "message_id": 3988
+ },
+ "nasa-imya-na-titan": {
+  "url": "https://tehnorex.by/zhurnal/nasa-imya-na-titan",
+  "title": "NASA отправит ваше имя на Титан: как записаться",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T23:27:01.581Z",
+  "message_id": 3989
+ },
+ "vw-id-golf-pauza": {
+  "url": "https://tehnorex.by/zhurnal/vw-id-golf-pauza",
+  "title": "Volkswagen остановил разработку ID. Golf",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T23:27:02.239Z",
+  "message_id": 3990
  }
 }

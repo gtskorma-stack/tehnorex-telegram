@@ -14928,5 +14928,82 @@
   "date": "вчера",
   "sent_at": "2026-10-29T23:17:00.222Z",
   "message_id": 3965
+ },
+ "iot-vzlomy-domashnih-setey": {
+  "url": "https://tehnorex.by/zhurnal/iot-vzlomy-domashnih-setey",
+  "title": "Миллиарды попыток взлома домашних сетей",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:38.477Z",
+  "message_id": 3966
+ },
+ "voyager-1-rekord": {
+  "url": "https://tehnorex.by/zhurnal/voyager-1-rekord",
+  "title": "Voyager 1 пережил сбой и идёт к новому рекорду",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:39.200Z",
+  "message_id": 3967
+ },
+ "death-stranding-anime": {
+  "url": "https://tehnorex.by/zhurnal/death-stranding-anime",
+  "title": "Кодзима показал тизер аниме Death Stranding Isolations",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:39.884Z",
+  "message_id": 3968
+ },
+ "android-sms-of-death": {
+  "url": "https://tehnorex.by/zhurnal/android-sms-of-death",
+  "title": "SMS of Death: одно сообщение выводит Android из строя",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:40.557Z",
+  "message_id": 3969
+ },
+ "intel-fab-28-vzryv": {
+  "url": "https://tehnorex.by/zhurnal/intel-fab-28-vzryv",
+  "title": "Взрыв на Fab 28: Intel остановил производство",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:41.262Z",
+  "message_id": 3970
+ },
+ "binance-vzlom-6-mlrd": {
+  "url": "https://tehnorex.by/zhurnal/binance-vzlom-6-mlrd",
+  "title": "Binance потеряла $6,3 млрд: крупнейший взлом в истории",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:44.981Z",
+  "message_id": 3971
+ },
+ "honor-x9e-s": {
+  "url": "https://tehnorex.by/zhurnal/honor-x9e-s",
+  "title": "Honor X9e s: батарея 8560 мА·ч и 80 Вт",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:45.657Z",
+  "message_id": 3972
+ },
+ "fcc-sputnik-svyaz": {
+  "url": "https://tehnorex.by/zhurnal/fcc-sputnik-svyaz",
+  "title": "FCC выделила 482 МГц для спутниковой связи",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:46.338Z",
+  "message_id": 3973
+ },
+ "iphone-duo-prodazhi": {
+  "url": "https://tehnorex.by/zhurnal/iphone-duo-prodazhi",
+  "title": "iPhone Duo раскупили: 125 тысяч за три дня",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:47.026Z",
+  "message_id": 3974
+ },
+ "netflix-pubg-serial": {
+  "url": "https://tehnorex.by/zhurnal/netflix-pubg-serial",
+  "title": "Netflix снимет сериал по PUBG с Дональдом Гловером",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:47.724Z",
+  "message_id": 3975
+ },
+ "neuralink-blindsight": {
+  "url": "https://tehnorex.by/zhurnal/neuralink-blindsight",
+  "title": "Neuralink: имплант Blindsight вернёт зрение",
+  "date": "сегодня",
+  "sent_at": "2026-10-30T15:27:51.448Z",
+  "message_id": 3976
  }
 }

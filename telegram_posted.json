@@ -15117,5 +15117,68 @@
   "date": "сегодня",
   "sent_at": "2026-10-31T08:48:56.977Z",
   "message_id": 3992
+ },
+ "iluvatar-tiangai-300-h200": {
+  "url": "https://tehnorex.by/zhurnal/iluvatar-tiangai-300-h200",
+  "title": "Китайский Tiangai 300 заявил перевес над Nvidia H200",
+  "date": "сегодня",
+  "sent_at": "2026-10-31T14:48:55.338Z",
+  "message_id": 3993
+ },
+ "rtx-5080-dorozhe-2000": {
+  "url": "https://tehnorex.by/zhurnal/rtx-5080-dorozhe-2000",
+  "title": "RTX 5080 пропала из магазина Nvidia, цена выше 2000 долларов",
+  "date": "сегодня",
+  "sent_at": "2026-10-31T14:48:56.022Z",
+  "message_id": 3994
+ },
+ "openai-raskhod-11-mlrd": {
+  "url": "https://tehnorex.by/zhurnal/openai-raskhod-11-mlrd",
+  "title": "OpenAI собрала 11 миллиардов вместо 30",
+  "date": "сегодня",
+  "sent_at": "2026-10-31T14:48:56.722Z",
+  "message_id": 3995
+ },
+ "romero-novyj-izdatel": {
+  "url": "https://tehnorex.by/zhurnal/romero-novyj-izdatel",
+  "title": "Джон Ромеро нашёл издателя после отказа Microsoft",
+  "date": "сегодня",
+  "sent_at": "2026-10-31T14:48:57.372Z",
+  "message_id": 3996
+ },
+ "iphone-duo-zamena-ekranov": {
+  "url": "https://tehnorex.by/zhurnal/iphone-duo-zamena-ekranov",
+  "title": "iPhone Duo: Apple бесплатно меняет треснувшие экраны",
+  "date": "сегодня",
+  "sent_at": "2026-10-31T14:48:58.061Z",
+  "message_id": 3997
+ },
+ "star-wars-jedi-3-anons": {
+  "url": "https://tehnorex.by/zhurnal/star-wars-jedi-3-anons",
+  "title": "Star Wars Jedi 3 скоро анонсируют",
+  "date": "сегодня",
+  "sent_at": "2026-10-31T14:49:01.773Z",
+  "message_id": 3998
+ },
+ "gemini-live-oflajn": {
+  "url": "https://tehnorex.by/zhurnal/gemini-live-oflajn",
+  "title": "Gemini Live научат говорить без интернета",
+  "date": "сегодня",
+  "sent_at": "2026-10-31T14:49:02.914Z",
+  "message_id": 3999
+ },
+ "habbl-spasenie-2032": {
+  "url": "https://tehnorex.by/zhurnal/habbl-spasenie-2032",
+  "title": "NASA ищет способ спасти «Хаббл» от падения",
+  "date": "сегодня",
+  "sent_at": "2026-10-31T14:49:03.585Z",
+  "message_id": 4000
+ },
+ "huawei-mate-x8-utechka": {
+  "url": "https://tehnorex.by/zhurnal/huawei-mate-x8-utechka",
+  "title": "Huawei Mate X8: складной флагман с Kirin 9050 Pro",
+  "date": "сегодня",
+  "sent_at": "2026-10-31T14:49:04.497Z",
+  "message_id": 4001
  }
 }

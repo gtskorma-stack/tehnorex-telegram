@@ -15257,5 +15257,61 @@
   "date": "сегодня",
   "sent_at": "2026-10-31T18:49:49.479Z",
   "message_id": 4012
+ },
+ "nasa-spasenie-hubble": {
+  "url": "https://tehnorex.by/zhurnal/nasa-spasenie-hubble",
+  "title": "NASA ищет способ спасти телескоп Хаббл",
+  "date": "сегодня",
+  "sent_at": "2026-11-01T22:19:03.593Z",
+  "message_id": 4013
+ },
+ "strahovka-robotov-gumanoidov": {
+  "url": "https://tehnorex.by/zhurnal/strahovka-robotov-gumanoidov",
+  "title": "В Британии придумали страховку для роботов-гуманоидов",
+  "date": "вчера",
+  "sent_at": "2026-11-01T22:19:04.260Z",
+  "message_id": 4014
+ },
+ "nasa-chapea-378-dnej": {
+  "url": "https://tehnorex.by/zhurnal/nasa-chapea-378-dnej",
+  "title": "NASA завершило 378 дней имитации полёта на Марс",
+  "date": "вчера",
+  "sent_at": "2026-11-01T22:19:04.908Z",
+  "message_id": 4015
+ },
+ "oneplus-turbo-6vs": {
+  "url": "https://tehnorex.by/zhurnal/oneplus-turbo-6vs",
+  "title": "OnePlus Turbo 6Vs: батарея 9000 мА·ч и 144 Гц",
+  "date": "вчера",
+  "sent_at": "2026-11-01T22:19:05.548Z",
+  "message_id": 4016
+ },
+ "redmi-m100-pro-1-5k-oled": {
+  "url": "https://tehnorex.by/zhurnal/redmi-m100-pro-1-5k-oled",
+  "title": "Redmi M100 Pro: 1.5K OLED и 5500 мА·ч за $350",
+  "date": "вчера",
+  "sent_at": "2026-11-01T22:19:06.205Z",
+  "message_id": 4017
+ },
+ "bend-studio-novaya-igra-2027": {
+  "url": "https://tehnorex.by/zhurnal/bend-studio-novaya-igra-2027",
+  "title": "Bend Studio выпустит новую игру в 2027 году",
+  "date": "вчера",
+  "sent_at": "2026-11-01T22:19:09.865Z",
+  "message_id": 4018
+ },
+ "prince-persia-5-millionov": {
+  "url": "https://tehnorex.by/zhurnal/prince-persia-5-millionov",
+  "title": "Фанат предложил Ubisoft 5 млн евро за ремейк",
+  "date": "вчера",
+  "sent_at": "2026-11-01T22:19:10.505Z",
+  "message_id": 4019
+ },
+ "asus-zakryvaet-smartfony": {
+  "url": "https://tehnorex.by/zhurnal/asus-zakryvaet-smartfony",
+  "title": "Asus прекращает выпуск смартфонов навсегда",
+  "date": "вчера",
+  "sent_at": "2026-11-01T22:19:11.203Z",
+  "message_id": 4020
  }
 }

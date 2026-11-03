@@ -15313,5 +15313,47 @@
   "date": "вчера",
   "sent_at": "2026-11-01T22:19:11.203Z",
   "message_id": 4020
+ },
+ "mask-orbitalnye-cod": {
+  "url": "https://tehnorex.by/zhurnal/mask-orbitalnye-cod",
+  "title": "Маск: орбитальные ЦОД обгонят земные к 2028",
+  "date": "сегодня",
+  "sent_at": "2026-11-03T00:58:30.572Z",
+  "message_id": 4021
+ },
+ "eu-otsrochka-zapreta-sotssetej": {
+  "url": "https://tehnorex.by/zhurnal/eu-otsrochka-zapreta-sotssetej",
+  "title": "ЕС отложил запрет соцсетей для детей до 13",
+  "date": "сегодня",
+  "sent_at": "2026-11-03T00:58:31.319Z",
+  "message_id": 4022
+ },
+ "mijia-stiralka-dlya-obuvi": {
+  "url": "https://tehnorex.by/zhurnal/mijia-stiralka-dlya-obuvi",
+  "title": "Xiaomi выпустила стиральную машину для обуви",
+  "date": "сегодня",
+  "sent_at": "2026-11-03T00:58:32.029Z",
+  "message_id": 4023
+ },
+ "samsung-privacy-display-s27": {
+  "url": "https://tehnorex.by/zhurnal/samsung-privacy-display-s27",
+  "title": "Экран-невидимку получат Galaxy S27 Pro и Ultra",
+  "date": "сегодня",
+  "sent_at": "2026-11-03T00:58:32.688Z",
+  "message_id": 4024
+ },
+ "toyota-waymo-robotaksi": {
+  "url": "https://tehnorex.by/zhurnal/toyota-waymo-robotaksi",
+  "title": "Toyota начнёт выпускать роботакси на заводе",
+  "date": "сегодня",
+  "sent_at": "2026-11-03T00:58:33.369Z",
+  "message_id": 4025
+ },
+ "death-stranding-2-xbox": {
+  "url": "https://tehnorex.by/zhurnal/death-stranding-2-xbox",
+  "title": "Death Stranding 2 может выйти на Xbox",
+  "date": "сегодня",
+  "sent_at": "2026-11-03T00:58:37.065Z",
+  "message_id": 4026
  }
 }
